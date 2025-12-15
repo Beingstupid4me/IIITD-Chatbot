@@ -5,7 +5,7 @@
 
 ---
 
-## Section 1: Institutional Status, Updates & Current Context
+# Section 1: Institutional Status, Updates & Current Context
 *(System Instruction: This section defines the "Present Moment" of the institute. Information in this section regarding dates, deadlines, and active rules overrides all subsequent static sections. If a user asks "Is admission open?", check this section first.)*
 
 ### 1.1. Current Academic Context (Monsoon Semester 2025)
@@ -76,7 +76,7 @@
 
 
 
-**Section 2: Institutional Profile, Campus Infrastructure, and Facilities**
+# Section 2: Institutional Profile, Campus Infrastructure, and Facilities**
 *Source of Truth: The IIIT Delhi Act 2007, Estate Office Protocols, Student Handbook*
 
 ## 2.1. Institutional Profile and Governance
@@ -211,24 +211,23 @@ Built to accommodate the growth in departments (Design, SSH).
 ### 2.4.1. The Student Centre
 A dedicated building for student activities, distinct from academic zones.
 *   **Dining Hall (The Mess):**
-    *   **Operator:** Managed by external vendors (e.g., Compass, Sodexo - *Vendor changes periodically*).
-    *   **Structure:** Multiple floors (typically 1st and 2nd) to handle capacity.
+    *   **Operator:** Managed by external vendors - Malcoti and South Indian Foods *Vendor changes periodically*).
+    *   **Structure:** Two floors 1st and 2nd, housing the two different mess vendors .
     *   **Mess Committee (SMC):** A student-elected body that monitors food quality, decides the menu, and levies fines on the vendor for hygiene violations.
-    *   **Subscription:** Mess fee is mandatory for hostellers. Day scholars can pay per meal or buy a semester pass.
-*   **Cafeteria / Night Canteen:**
+    *   **Subscription:** Mess fee for 15 days is mandatory for hostellers. Day scholars can pay per meal or buy the coupons.
+*   **Canteen:**
     *   **Location:** Ground Floor.
-    *   **Offerings:** Fast food, juices, tea/coffee.
-    *   **Timings:** Usually stays open until late night (2:00 AM - 3:00 AM) to cater to students studying late.
-*   **Gymnasium:**
+    *   **Offerings:** Fast food, juices, cold-drinks, chips, etc.
+    *   **Timings:** Stays open 24*7 to cater to students all day.
+*   **Yoga Room:**
     *   **Location:** Top Floor.
-    *   **Equipment:** Treadmills, free weights, squat racks, multi-gym machines.
-    *   **Trainer:** A physical trainer is available during peak hours (Morning/Evening).
-    *   **Rule:** "Clean Shoes Policy" is strictly enforced. Users must carry a separate pair of gym shoes.
+    *   **Equipment:** Empty room with mirrors
+    *   **Trainer:** A yoga teacher is available during evening hours for the daily yoga sessions.
 *   **Music Room:**
     *   **Management:** Controlled by **AudioBytes** (Music Club).
     *   **Equipment:** Drum kit, keyboard, amplifiers, electric guitars.
     *   **Access:** Requires key issuance from the Security/Club Coordinator.
-*   **Recreation Room:**
+*   **Boy's Common Room:**
     *   Pool Table (8-ball), Table Tennis (TT) tables, Foosball.
 
 ### 2.4.2. Sports Infrastructure
@@ -236,8 +235,8 @@ A dedicated building for student activities, distinct from academic zones.
 *   **Courts:**
     *   **Basketball:** Synthetic court with floodlights.
     *   **Tennis:** Hard courts (Synthetic).
-    *   **Volleyball:** Designated sand/synthetic court.
-    *   **Squash:** Indoor glass-backed squash courts (located near the Sports Complex building).
+    *   **Volleyball:** Designated sand court.
+    *   **Squash:** Indoor glass-backed squash courts (located in the Sports Complex building).
 *   **Swimming Pool:**
     *   **Type:** Indoor, temperature-controlled (accessible in winter).
     *   **Rules:** Caps are mandatory. Shower before entering is mandatory. Lifeguard presence is required for usage.
@@ -319,8 +318,7 @@ IIITD is a fully residential campus for B.Tech students (for the first few years
 
 
 
-# IIITD Master Knowledge Base
-**Section 3: Academic Departments, Programs, and Regulations**
+# Section 3: Academic Departments, Programs, and Regulations**
 *Source of Truth: UGC Guidelines, AICTE Handbook, IIITD Senate Ordinances (2025 Edition)*
 
 ## 3.1. Academic Departments (The Entities)
@@ -525,12 +523,13 @@ IIITD is a fully residential campus for B.Tech students (for the first few years
 
 ### 3.5.2. B.Tech Project (BTP)
 *   **Nature:** Optional research project under a faculty mentor.
-*   **Credits:** Can replace elective credits (typically 4 to 12 credits spread over semesters).
+*   **Credits:** Can replace elective credits, consists 8 to 12 credits spread atleast two regular semesters.
 *   **Outcome:** Often leads to a research paper. High performance in BTP is valued for Ph.D. admissions.
 
 ### 3.5.3. Independent Project (IP) / Independent Study (IS)
 *   **IP:** Building a software/hardware prototype. Focus on engineering.
 *   **IS:** Reading and understanding a research topic. Focus on theory.
+*   **Credits:** Maximum of 8 credits in the course of your degree, with a cap of 4 credits of IP in a semester.
 *   **Usage:** Students use these to explore topics not covered in standard courses.
 
 ### 3.5.4. Teaching Assistantship (TA)
@@ -580,9 +579,7 @@ IIITD is a fully residential campus for B.Tech students (for the first few years
 # Section 4: Student Life, Council, and Extracurriculars
 *Source of Truth: Office of Student Affairs, Student Council Constitution*
 
-## 4.1. Student Self-Governance
-
-### 4.1.1. The Student Council
+## 4.1.1. The Student Council
 The Student Council is the primary representative body of the students, acting as a bridge between the student community and the administration.
 *   **Governance Model:** Democratic. Members are elected via an annual **E-Voting** process on the ERP.
 *   **Key Portfolios:**
@@ -594,7 +591,7 @@ The Student Council is the primary representative body of the students, acting a
     *   **Hostel & Mess Committee:** Represents resident concerns regarding food and infrastructure.
 *   **Funding:** The Council manages the "Student Affairs Fund" (derived from student fees) to budget for clubs and fests.
 
-### 4.1.2. The Student Senate
+## 4.1.2. The Student Senate
 *   **Role:** While the Council is Executive, the Senate is often the Deliberative body (comprising Class Representatives and Council members).
 *   **Function:** They debate policy changes (e.g., changes in Course structure, Library timings) before proposing them to the Deans.
 
@@ -751,7 +748,7 @@ IIITD is renowned for its vibrant peer-learning culture. Clubs are not just soci
 *   **"GC":** Google Classroom (Used for course material distribution).
 *   **"Laptop-S:** The Intranet system (Local IP access).
 
-**Section 5: Undergraduate & Postgraduate Admissions**
+# Section 5: Undergraduate & Postgraduate Admissions**
 *Source of Truth: JAC Delhi Brochure 2025, Senate Ordinance on Admissions*
 
 ## 5.1. B.Tech Admission (The JAC Delhi Ecosystem)
@@ -937,7 +934,7 @@ A student can be **Debarred** (banned) from placements for:
 *   **Alumni Referrals:** The Alumni portal allows current students to request referrals for off-campus roles.
 
 
-**Section 8: IT Infrastructure & Digital Services**
+# Section 8: IT Infrastructure & Digital Services**
 *Source of Truth: IMS (Information Management Services) Policy, Intranet (Nurecampus)*
 
 ## 8.1. The "Nurecampus" ERP Ecosystem (Entity)
@@ -1079,7 +1076,7 @@ IIITD provides campus-wide licenses for:
 The campus has cab service for day - scholars from the two metro stations to campus, from 8:00am to 11:00am, and 5:00PM to 10:00PM
 
 
-**Section 12: Faculty Research Directory**
+# Section 12: Faculty Research Directory**
 *Source of Truth: Faculty Personal Pages & IRINS Profile*
 *(System Note: When answering "Who works on X?", cross-reference this list.)*
 
@@ -1218,7 +1215,7 @@ The campus has cab service for day - scholars from the two metro stations to cam
 *   **GitHub Student Pack:** Use your `@iiitd.ac.in` email to get GitHub Pro, AWS credits, and JetBrains IDEs for free.
 *   **IEEE Xplore:** Accessible automatically when connected to `IIITD-Student` Wi-Fi (IP-based authentication). No login required.
 
-**Section 16: International Relations & Exchange Programs**
+# Section 16: International Relations & Exchange Programs**
 *Source of Truth: Office of International Affairs (OIA)*
 
 ## 16.1. The OIA Entity
