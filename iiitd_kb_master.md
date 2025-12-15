@@ -248,26 +248,23 @@ A dedicated building for student activities, distinct from academic zones.
 IIITD is a fully residential campus for B.Tech students (for the first few years, depending on policy) and most PG students.
 
 ### 2.5.1. Hostel Blocks
-*   **Old Boys Hostel (OBH):** The first residential block. Double and Triple occupancy rooms.
-*   **Old Girls Hostel (OGH):** Adjacent to OBH.
-*   **New Boys Hostel (NBH) - Phase 2:** High-rise towers (H1, H2). Features central air-conditioning (BMS controlled).
-*   **New Girls Hostel (NGH) - Phase 2:** High-rise tower.
-*   **Married Accommodation:** Studio apartments available for married Ph.D. students. Limited inventory; allocated based on waitlist seniority.
+*   **Old Boys Hostel (OBH):** The first residential block. Single and Double occupancy rooms. Also contains extension block based on new architecture.
+*   **Old Girls Hostel (OGH):** Adjacent to OBH, also has a extension block in it, based on new architecture.
+*   **New Boys Hostel (H1):** High-rise towers - H1. Features central air-conditioning (BMS controlled).
+*   **New Boys Hostel (H2):** High-rise towers - H2. Features central air-conditioning (BMS controlled).
+*   **Married Accommodation:** Studio apartments available for married Ph.D. students, in the H1/H2. Limited inventory; allocated based on waitlist seniority.
 
 ### 2.5.2. Hostel Amenities
 *   **Common Rooms:** Each hostel has a common room equipped with a TV, sofa, and indoor games (Carrom, Chess).
-*   **Washing Machines:** Automatic washing machines are available on specific floors or in a central laundry room. Usage is generally free or coin-operated (check current vendor status).
-*   **Pantries:** Each floor usually has a pantry with a water cooler/RO purifier and a microwave/induction plate for basic heating.
-*   **Vending Machines:** Installed in hostel lobbies for snacks and beverages.
+*   **Washing Machines:** Automatic washing machines are available in student centre not in hostel.
+*   **Pantries:** Each floor usually has a water cooler/RO purifier and a basic microwave/induction plate for basic heating at the ground floor at each hostel.
 
 ### 2.5.3. Hostel Rules & Regulations
 *   **Possession of Room:** Rooms are allocated for one semester/year. Students may be required to shift rooms or vacating during summer breaks for maintenance.
-*   **Biometric Attendance:** Residents may be required to punch in biometrically at the hostel entrance by a certain time (e.g., 12:00 Midnight) for safety tracking.
-*   **Leave Application:** Residents leaving the campus for the night (Night Out) must apply for leave on the ERP portal. Approval may be required from Wardens/Parents depending on the student's year of study.
+*   **Night Leave:** Residents leaving the campus for the night (Night Out) are free to do so, there is no curfew.
 *   **Prohibited Items:**
     *   Alcohol, drugs, and smoking are strictly prohibited on campus. Detection leads to immediate expulsion from the hostel and disciplinary action (DAC).
     *   Heaters, immersion rods, and kettles (fire hazards).
-*   **Quiet Hours:** High noise levels are prohibited after 11:00 PM in corridors.
 
 ### 2.5.4. Faculty Housing
 *   **Towers:** There are dedicated residential towers for faculty and staff on campus.
@@ -827,19 +824,17 @@ IIITD offers up to **2 Bonus Points** added to the JEE Main Percentile.
     *   **Monsoon Semester:** Fees due usually by **July 25th**.
     *   **Winter Semester:** Fees due usually by **December 25th**.
 *   **Late Fee Penalty:**
-    *   **Tier 1:** Rs. 1,000 for the first week of delay.
-    *   **Tier 2:** Rs. 100 per day subsequently.
+    *   **Rule** Rs. 1,000 for the first 10 days.
     *   **Consequence:** Failure to pay by the "Census Date" (approx 4 weeks in) leads to **Registration Cancellation**.
 
 ## 6.2. Hostel & Mess Financials
 *   **Hostel Fee:**
-    *   **Single Room:** (Rare, mostly for Ph.D./Medical needs) Highest bracket.
-    *   **Double Sharing:** Standard rate.
-    *   **Triple Sharing:** Lowest rate.
-    *   *Note:* AC charges are often bundled or billed based on metered usage in newer blocks.
+    *   **Single Room:** (Rare, mostly for Ph.D./Medical needs) Highest bracket of around 55k.
+    *   **Double Sharing:** Standard rate of 45k.
+    *   **Triple Sharing:** Lowest rate of two-third of standard rate.
+    *   *Note:* AC / electricity / water, etc are not billed
 *   **Mess Fee:**
-    *   **Advance:** Collected quarterly/semester-wise.
-    *   **Refund/Adjustment:** Unused meal balance (if rebate rules are followed) is adjusted in the next semester's bill.
+    *   **Advance:** Collected with hostel fees at the start of the semester
 
 ## 6.3. The "Delhi Government Fee Waiver" (Detailed Rules)
 This is the most critical financial aid query.

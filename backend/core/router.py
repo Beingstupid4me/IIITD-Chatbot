@@ -1,6 +1,10 @@
 """
-Sitemap Router Module
-Uses LLM to classify queries and determine relevant sections/filters for retrieval.
+Dual Intent Router Module
+Routes queries to either:
+- INTENT_COURSE: Course-related queries (syllabi, prerequisites, credits, instructors, course codes)
+- INTENT_GENERAL: General IIITD queries (admissions, fees, campus life, rules, placements)
+
+Also handles greetings and off-topic queries.
 """
 import os
 import json
@@ -27,6 +31,22 @@ GREETING_PATTERNS = [
     r"^(bye|goodbye|see\s*you|cya)[\s!.,?]*$",
     r"^(ok|okay|sure|yes|no|yep|nope|alright)[\s!.,?]*$",
     r"^(how\s*are\s*you|what'?s\s*up|wassup)[\s!.,?]*$",
+]
+
+# Course-related patterns for fast detection
+COURSE_CODE_PATTERN = re.compile(
+    r'\b([A-Z]{2,4})\s*(\d{3}[A-Z]?)\b',
+    re.IGNORECASE
+)
+
+COURSE_KEYWORDS = [
+    'syllabus', 'syllabi', 'prerequisite', 'prerequisites', 'prereq',
+    'credits', 'credit hours', 'course outline', 'course description',
+    'lecture plan', 'weekly plan', 'course outcome', 'textbook', 'reference book',
+    'taught by', 'instructor', 'professor', 'faculty teaching',
+    'elective', 'core course', 'open elective',
+    'course code', 'what is cse', 'what is ece', 'what is bio', 'what is mth',
+    'courses about', 'courses on', 'courses related to',
 ]
 
 
@@ -121,32 +141,49 @@ class SitemapRouter:
     def _create_router_chain(self):
         """Create the LLM chain for routing queries."""
         router_prompt = ChatPromptTemplate.from_messages([
-            ("system", """You are a query classifier and router for the IIITD (IIIT Delhi) Knowledge Base.
-Your job is to classify user queries and determine which sections of the knowledge base are most relevant.
+            ("system", """You are a query classifier for IIIT Delhi's dual knowledge base system.
+
+**Your job:** Classify user queries into one of these intents:
+
+1. **"course"** - Questions about SPECIFIC COURSES:
+   - Syllabus, prerequisites, credits, lecture topics
+   - Course codes (CSE101, BIO213, ECE314, MTH100, etc.)
+   - Course instructors/professors
+   - Course descriptions, textbooks, outcomes
+   - "What courses cover X topic?"
+   - "List all CSE/ECE/BIO courses"
+
+2. **"general"** - Questions about IIITD in general:
+   - Admissions, fees, scholarships
+   - Campus facilities, hostels, mess, library
+   - Academic rules, attendance, grading, CGPA
+   - Placements, internships, companies
+   - Faculty research (NOT course teaching)
+   - Student clubs, events, fests
+   - Branches offered (CSE, ECE, CSAM, etc.)
+
+3. **"greeting"** - Casual greetings: hi, hello, thanks, bye
+
+4. **"off_topic"** - Completely unrelated to IIITD: weather, recipes, jokes
 
 {sitemap}
 
 ---
 
-Given a user query, you must output a JSON object with these fields:
-1. "query_type": One of:
-   - "greeting" - for greetings, thanks, casual chat (hi, hello, thanks, bye, how are you)
-   - "off_topic" - for questions completely unrelated to IIITD (weather, recipes, jokes, etc.)
-   - "rag" - for questions that need information from the IIITD knowledge base
-2. "relevant_sections": List of Header 1 section names (1-3 max) from the sitemap. Empty list [] for greeting/off_topic.
-3. "keywords": Key terms extracted from the query. Empty list [] for greeting/off_topic.
-4. "reasoning": Brief explanation (1 sentence).
+**Output a JSON object with:**
+- "intent": one of ["course", "general", "greeting", "off_topic"]
+- "relevant_sections": List of section names (for "general" only, empty for others)
+- "keywords": Key terms from query
+- "reasoning": Brief explanation (1 sentence)
 
-**Rules:**
-- Use EXACT section names from the sitemap.
-- For greetings/off_topic, return empty lists for sections and keywords.
-- Output ONLY valid JSON, no extra text.
+**Examples:**
+- "CSE101 syllabus" → {{"intent": "course", "relevant_sections": [], "keywords": ["CSE101", "syllabus"], "reasoning": "Asking for course syllabus"}}
+- "What are the prerequisites for Machine Learning?" → {{"intent": "course", "relevant_sections": [], "keywords": ["prerequisites", "Machine Learning"], "reasoning": "Course prerequisite query"}}
+- "Fee structure?" → {{"intent": "general", "relevant_sections": ["Section 20: Academic Eligibility, Regulations & Ordinances"], "keywords": ["fee", "structure"], "reasoning": "General fees query"}}
+- "hello" → {{"intent": "greeting", "relevant_sections": [], "keywords": [], "reasoning": "Greeting"}}
 
-**Example outputs:**
-Query: "hello" -> {{"query_type": "greeting", "relevant_sections": [], "keywords": [], "reasoning": "This is a greeting."}}
-Query: "what is the fee structure?" -> {{"query_type": "rag", "relevant_sections": ["Section 20: Academic Regulations"], "keywords": ["fee", "structure"], "reasoning": "Fee information is in academic regulations."}}
-"""),
-            ("human", "Query: {query}\n\nOutput JSON only:")
+Output ONLY valid JSON:"""),
+            ("human", "Query: {query}")
         ])
         
         return router_prompt | self.llm | StrOutputParser()
@@ -158,10 +195,24 @@ Query: "what is the fee structure?" -> {{"query_type": "rag", "relevant_sections
             if re.match(pattern, query_lower, re.IGNORECASE):
                 return True
         return False
+    
+    def _is_course_query(self, query: str) -> bool:
+        """Fast check if query is likely course-related."""
+        query_lower = query.lower()
+        
+        # Check for course code pattern
+        if COURSE_CODE_PATTERN.search(query):
+            return True
+        
+        # Check for course keywords
+        for keyword in COURSE_KEYWORDS:
+            if keyword in query_lower:
+                return True
+        
+        return False
 
     def _parse_llm_output(self, output: str) -> Dict[str, Any]:
         """Parse LLM output with fallback handling for malformed JSON."""
-        # Try to extract JSON from the output
         output = output.strip()
         
         # Try direct JSON parse
@@ -188,37 +239,49 @@ Query: "what is the fee structure?" -> {{"query_type": "rag", "relevant_sections
         
         # Fallback: try to extract key information with regex
         result = {
-            "query_type": "rag",
+            "intent": "general",
             "relevant_sections": [],
             "keywords": [],
             "reasoning": "Fallback parsing"
         }
         
-        # Check for greeting/off_topic indicators
-        if any(word in output.lower() for word in ["greeting", "hello", "hi", "thanks"]):
-            result["query_type"] = "greeting"
-        elif "off_topic" in output.lower() or "unrelated" in output.lower():
-            result["query_type"] = "off_topic"
+        # Check for intent indicators
+        output_lower = output.lower()
+        if any(word in output_lower for word in ["greeting", "hello", "hi ", "thanks"]):
+            result["intent"] = "greeting"
+        elif "off_topic" in output_lower or "unrelated" in output_lower:
+            result["intent"] = "off_topic"
+        elif "course" in output_lower and ("syllabus" in output_lower or "prerequisite" in output_lower or "credit" in output_lower):
+            result["intent"] = "course"
         
         return result
 
     def route(self, query: str) -> Dict[str, Any]:
         """
-        Route a query to determine relevant sections and keywords.
+        Route a query to determine intent and relevant filters.
         
         Returns:
-            Dict with keys: query_type, relevant_sections, keywords, reasoning, chroma_filter, skip_retrieval
+            Dict with keys:
+            - intent: 'course', 'general', 'greeting', or 'off_topic'
+            - relevant_sections: List of section names (for general only)
+            - keywords: Key terms from query
+            - reasoning: Explanation
+            - chroma_filter: Filter for ChromaDB (general only)
+            - skip_retrieval: Whether to skip retrieval entirely
         """
         # Fast path: check for common greetings without LLM
         if self._is_greeting(query):
             return {
-                "query_type": "greeting",
+                "intent": "greeting",
                 "relevant_sections": [],
                 "keywords": [],
                 "reasoning": "Detected as greeting (fast path)",
                 "chroma_filter": None,
                 "skip_retrieval": True
             }
+        
+        # Fast path: check for obvious course queries
+        is_likely_course = self._is_course_query(query)
         
         try:
             # Call LLM router
@@ -230,13 +293,24 @@ Query: "what is the fee structure?" -> {{"query_type": "rag", "relevant_sections
             # Parse with fallback handling
             result = self._parse_llm_output(raw_output)
             
-            # Determine if we should skip retrieval
-            query_type = result.get("query_type", "rag")
-            skip_retrieval = query_type in ["greeting", "off_topic"]
+            # Get intent (handle both old 'query_type' and new 'intent' keys)
+            intent = result.get("intent") or result.get("query_type", "general")
             
-            # Build ChromaDB filter from sections (only if not skipping)
+            # Override with fast path detection if LLM missed it
+            if is_likely_course and intent == "general":
+                intent = "course"
+                print(f"  [Router] Overriding to 'course' based on fast path detection")
+            
+            # Map old values to new
+            if intent == "rag":
+                intent = "general"
+            
+            # Determine if we should skip retrieval
+            skip_retrieval = intent in ["greeting", "off_topic"]
+            
+            # Build ChromaDB filter from sections (only for general intent)
             chroma_filter = None
-            if not skip_retrieval and result.get("relevant_sections"):
+            if intent == "general" and result.get("relevant_sections"):
                 sections = result["relevant_sections"]
                 if len(sections) == 1:
                     chroma_filter = {"Header 1": sections[0]}
@@ -244,7 +318,7 @@ Query: "what is the fee structure?" -> {{"query_type": "rag", "relevant_sections
                     chroma_filter = {"$or": [{"Header 1": s} for s in sections]}
             
             return {
-                "query_type": query_type,
+                "intent": intent,
                 "relevant_sections": result.get("relevant_sections", []),
                 "keywords": result.get("keywords", []),
                 "reasoning": result.get("reasoning", ""),
@@ -253,12 +327,13 @@ Query: "what is the fee structure?" -> {{"query_type": "rag", "relevant_sections
             }
         except Exception as e:
             print(f"Router error: {e}")
-            # Fallback: assume RAG is needed
+            # Fallback: use fast path detection or default to general
+            fallback_intent = "course" if is_likely_course else "general"
             return {
-                "query_type": "rag",
+                "intent": fallback_intent,
                 "relevant_sections": [],
                 "keywords": [],
-                "reasoning": f"Router failed: {e}",
+                "reasoning": f"Router failed: {e}, using fallback",
                 "chroma_filter": None,
                 "skip_retrieval": False
             }

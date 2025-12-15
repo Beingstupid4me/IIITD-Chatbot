@@ -149,19 +149,19 @@ Content: IIITD is a fully residential campus for B.Tech students (for the f...
 --------------------------------------------------------------------------------
 Chunk 24:
   Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities', 'Header 2': '2.5. Residential Infrastructure (Hostels)', 'Header 3': '2.5.1. Hostel Blocks'}
-  Content Length: 624 chars
+  Content Length: 787 chars
   Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities > 2.5. Residential Infrastructure (Hostels) > 2.5.1. Hostel Blocks
 Content: *   **Old Boys Hostel (OBH):** The first re...
 --------------------------------------------------------------------------------
 Chunk 25:
   Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities', 'Header 2': '2.5. Residential Infrastructure (Hostels)', 'Header 3': '2.5.2. Hostel Amenities'}
-  Content Length: 672 chars
+  Content Length: 531 chars
   Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities > 2.5. Residential Infrastructure (Hostels) > 2.5.2. Hostel Amenities
 Content: *   **Common Rooms:** Each hostel has a ...
 --------------------------------------------------------------------------------
 Chunk 26:
   Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities', 'Header 2': '2.5. Residential Infrastructure (Hostels)', 'Header 3': '2.5.3. Hostel Rules & Regulations'}
-  Content Length: 1026 chars
+  Content Length: 681 chars
   Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities > 2.5. Residential Infrastructure (Hostels) > 2.5.3. Hostel Rules & Regulations
 Content: *   **Possession of Room:** Ro...
 --------------------------------------------------------------------------------
@@ -336,7 +336,7 @@ Content: *   **Nature:** Optional research project under ...
 --------------------------------------------------------------------------------
 Chunk 54:
   Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.5. Unique Academic Components (Entities)', 'Header 3': '3.5.3. Independent Project (IP) / Independent Study (IS)'}
-  Content Length: 490 chars
+  Content Length: 525 chars
   Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.5. Unique Academic Components (Entities) > 3.5.3. Independent Project (IP) / Independent Study (IS)
 Content: *   **IP:** Buildin...
 --------------------------------------------------------------------------------
@@ -372,16 +372,16 @@ Chunk 59:
 Content: *Source of Truth: Office of Student Affairs, Student Council Constitution*...
 --------------------------------------------------------------------------------
 Chunk 60:
-  Metadata: {'Header 1': 'Section 4: Student Life, Council, and Extracurriculars', 'Header 2': '4.1. Student Self-Governance', 'Header 3': '4.1.1. The Student Council'}
-  Content Length: 1182 chars
-  Content Preview: Context: Section 4: Student Life, Council, and Extracurriculars > 4.1. Student Self-Governance > 4.1.1. The Student Council
-Content: The Student Council is the primary representative body of the stude...
+  Metadata: {'Header 1': 'Section 4: Student Life, Council, and Extracurriculars', 'Header 2': '4.1.1. The Student Council'}
+  Content Length: 1151 chars
+  Content Preview: Context: Section 4: Student Life, Council, and Extracurriculars > 4.1.1. The Student Council
+Content: The Student Council is the primary representative body of the students, acting as a bridge between...
 --------------------------------------------------------------------------------
 Chunk 61:
-  Metadata: {'Header 1': 'Section 4: Student Life, Council, and Extracurriculars', 'Header 2': '4.1. Student Self-Governance', 'Header 3': '4.1.2. The Student Senate'}
-  Content Length: 415 chars
-  Content Preview: Context: Section 4: Student Life, Council, and Extracurriculars > 4.1. Student Self-Governance > 4.1.2. The Student Senate
-Content: *   **Role:** While the Council is Executive, the Senate is often th...
+  Metadata: {'Header 1': 'Section 4: Student Life, Council, and Extracurriculars', 'Header 2': '4.1.2. The Student Senate'}
+  Content Length: 384 chars
+  Content Preview: Context: Section 4: Student Life, Council, and Extracurriculars > 4.1.2. The Student Senate
+Content: *   **Role:** While the Council is Executive, the Senate is often the Deliberative body (comprising...
 --------------------------------------------------------------------------------
 Chunk 62:
   Metadata: {'Header 1': 'Section 4: Student Life, Council, and Extracurriculars', 'Header 2': '4.2. Technical Clubs (The "Coding Culture")'}
@@ -549,17 +549,16 @@ Content: 1.  **Tuition Fee:** Charged per semester. The largest component.
 --------------------------------------------------------------------------------
 Chunk 87:
   Metadata: {'Header 1': 'Section 6: Fees, Financial Aid & Refunds', 'Header 2': '6.1. Fee Structure Breakdown', 'Header 3': '6.1.2. Payment Protocols'}
-  Content Length: 623 chars
+  Content Length: 568 chars
   Content Preview: Context: Section 6: Fees, Financial Aid & Refunds > 6.1. Fee Structure Breakdown > 6.1.2. Payment Protocols
 Content: *   **Portal:** Payments are made via the **IIITD ERP (Payments Module)** or a desi...
 --------------------------------------------------------------------------------
 Chunk 88:
   Metadata: {'Header 1': 'Section 6: Fees, Financial Aid & Refunds', 'Header 2': '6.2. Hostel & Mess Financials'}
-  Content Length: 543 chars
+  Content Length: 462 chars
   Content Preview: Context: Section 6: Fees, Financial Aid & Refunds > 6.2. Hostel & Mess Financials
 Content: *   **Hostel Fee:**
-*   **Single Room:** (Rare, mostly for Ph.D./Medical needs) Highest bracket.
-*   **Double...
+*   **Single Room:** (Rare, mostly for Ph.D./Medical needs) Highest bracket of around 55k...
 --------------------------------------------------------------------------------
 Chunk 89:
   Metadata: {'Header 1': 'Section 6: Fees, Financial Aid & Refunds', 'Header 2': '6.3. The "Delhi Government Fee Waiver" (Detailed Rules)'}

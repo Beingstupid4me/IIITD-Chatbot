@@ -251,7 +251,8 @@
     {
       "header_1": "Section 4: Student Life, Council, and Extracurriculars",
       "subsections": [
-        "4.1. Student Self-Governance",
+        "4.1.1. The Student Council",
+        "4.1.2. The Student Senate",
         "4.2. Technical Clubs (The \"Coding Culture\")",
         "4.3. Cultural and Social Clubs",
         "4.4. Campus Fests (The \"High Points\")",
@@ -259,8 +260,6 @@
         "4.6. \"Vibe\" and Campus Terminology (Slang/Fuzzy)"
       ],
       "sub_subsections": [
-        "4.1.1. The Student Council",
-        "4.1.2. The Student Senate",
         "4.4.1. Odyssey (Cultural Fest)",
         "4.4.2. Esya (Technical Fest)",
         "4.4.3. RIISE (Research Showcase)",
