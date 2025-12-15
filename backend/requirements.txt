@@ -2,6 +2,7 @@ langchain
 langchain-community
 langchain-google-genai
 langchain-huggingface
+langchain-text-splitters
 chromadb
 rank_bm25
 python-dotenv

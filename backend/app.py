@@ -1,8 +1,8 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from typing import List, Tuple
-from core.retrieval import get_retriever
+from typing import List, Tuple, Optional, Dict, Any
+from core.retrieval import get_retriever, get_filterable_retriever
 from core.generation import RAGPipeline
 from core.ingestion import ingest_data
 import os
@@ -24,7 +24,7 @@ app.add_middleware(
 retriever = None
 pipeline = None
 
-def initialize_pipeline():
+def initialize_pipeline(use_router: bool = True):
     global retriever, pipeline
     # Check if vector store exists, if not, ingest
     if not os.path.exists(Config.CHROMA_PERSIST_DIRECTORY):
@@ -36,9 +36,10 @@ def initialize_pipeline():
             return
 
     try:
-        retriever = get_retriever()
-        pipeline = RAGPipeline(retriever)
-        print("Pipeline initialized successfully.")
+        # Use filterable retriever for router support
+        retriever = get_filterable_retriever()
+        pipeline = RAGPipeline(retriever, use_router=use_router)
+        print("Pipeline initialized successfully (with Sitemap Router).")
     except Exception as e:
         print(f"Error initializing pipeline: {e}")
 
@@ -53,9 +54,17 @@ class Source(BaseModel):
     content: str
     metadata: dict
 
+class RouteInfo(BaseModel):
+    query_type: str = "rag"  # 'rag', 'greeting', or 'off_topic'
+    relevant_sections: List[str] = []
+    keywords: List[str] = []
+    reasoning: str = ""
+    skip_retrieval: bool = False
+
 class ChatResponse(BaseModel):
     answer: str
     sources: List[Source] = []
+    route_info: Optional[RouteInfo] = None
 
 @app.post("/chat", response_model=ChatResponse)
 async def chat(request: ChatRequest):
@@ -73,7 +82,21 @@ async def chat(request: ChatRequest):
     
     try:
         result = pipeline.run(request.question, chat_history=history_messages)
-        return ChatResponse(answer=result["answer"], sources=result["sources"])
+        
+        # Parse route_info if available
+        route_info = None
+        if result.get("route_info"):
+            route_info = RouteInfo(
+                relevant_sections=result["route_info"].get("relevant_sections", []),
+                keywords=result["route_info"].get("keywords", []),
+                reasoning=result["route_info"].get("reasoning", "")
+            )
+        
+        return ChatResponse(
+            answer=result["answer"], 
+            sources=result["sources"],
+            route_info=route_info
+        )
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 

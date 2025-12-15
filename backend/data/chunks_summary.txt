@@ -1,0 +1,1269 @@
+Total Chunks: 196
+================================================================================
+
+Chunk 1:
+  Metadata: {'Header 1': 'IIITD Master Knowledge Base'}
+  Content Length: 199 chars
+  Content Preview: Context: IIITD Master Knowledge Base
+Content: **Document Version:** 11.25.01
+**Last Updated:** November 26, 2025
+**Source of Truth:** www.iiitd.ac.in, Intranet (Nurecampus), Internal Circulars.  
+---...
+--------------------------------------------------------------------------------
+Chunk 2:
+  Metadata: {'Header 1': 'Section 1: Institutional Status, Updates & Current Context'}
+  Content Length: 338 chars
+  Content Preview: Context: Section 1: Institutional Status, Updates & Current Context
+Content: *(System Instruction: This section defines the "Present Moment" of the institute. Information in this section regarding dat...
+--------------------------------------------------------------------------------
+Chunk 3:
+  Metadata: {'Header 1': 'Section 1: Institutional Status, Updates & Current Context', 'Header 3': '1.1. Current Academic Context (Monsoon Semester 2025)'}
+  Content Length: 1013 chars
+  Content Preview: Context: Section 1: Institutional Status, Updates & Current Context > 1.1. Current Academic Context (Monsoon Semester 2025)
+Content: *   **Current Semester:** Monsoon 2025 (August 2025 – December 2025...
+--------------------------------------------------------------------------------
+Chunk 4:
+  Metadata: {'Header 1': 'Section 1: Institutional Status, Updates & Current Context', 'Header 3': '1.2. Active Admission Cycles (Winter Session 2025-26)'}
+  Content Length: 1127 chars
+  Content Preview: Context: Section 1: Institutional Status, Updates & Current Context > 1.2. Active Admission Cycles (Winter Session 2025-26)
+Content: *   **Ph.D. Admissions (Rolling/Winter):** **[ACTIVE]**
+*   **Statu...
+--------------------------------------------------------------------------------
+Chunk 5:
+  Metadata: {'Header 1': 'Section 1: Institutional Status, Updates & Current Context', 'Header 3': '1.3. Placement & Internship Updates (Placement Season 2025-26)'}
+  Content Length: 873 chars
+  Content Preview: Context: Section 1: Institutional Status, Updates & Current Context > 1.3. Placement & Internship Updates (Placement Season 2025-26)
+Content: *   **Placement Season Status:** **Phase 1** is set to beg...
+--------------------------------------------------------------------------------
+Chunk 6:
+  Metadata: {'Header 1': 'Section 1: Institutional Status, Updates & Current Context', 'Header 3': '1.4. Recent Administrative Notices & Circulars'}
+  Content Length: 767 chars
+  Content Preview: Context: Section 1: Institutional Status, Updates & Current Context > 1.4. Recent Administrative Notices & Circulars
+Content: *   **Hostel Circular (Winter Break):**
+*   Residents wishing to retain th...
+--------------------------------------------------------------------------------
+Chunk 7:
+  Metadata: {'Header 1': 'Section 1: Institutional Status, Updates & Current Context', 'Header 3': '1.5. Latest Achievements & Research Highlights'}
+  Content Length: 750 chars
+  Content Preview: Context: Section 1: Institutional Status, Updates & Current Context > 1.5. Latest Achievements & Research Highlights
+Content: *   **Faculty Achievement:** Prof. **[Name Placeholder, (Not Updated)]** f...
+--------------------------------------------------------------------------------
+Chunk 8:
+  Metadata: {'Header 1': 'Section 1: Institutional Status, Updates & Current Context', 'Header 3': '1.6. Upcoming Campus Events'}
+  Content Length: 554 chars
+  Content Preview: Context: Section 1: Institutional Status, Updates & Current Context > 1.6. Upcoming Campus Events
+Content: *   **Research Showcase 2026:**
+*   **Date:** Announced for **March 14-15, 2026**.
+*   **Call...
+--------------------------------------------------------------------------------
+Chunk 9:
+  Metadata: {'Header 1': 'Section 1: Institutional Status, Updates & Current Context', 'Header 3': '1.7. Active Tenders (Administrative)'}
+  Content Length: 430 chars
+  Content Preview: Context: Section 1: Institutional Status, Updates & Current Context > 1.7. Active Tenders (Administrative)
+Content: *   **Tender No. IIITD/MM/2025/11:** "Supply and Installation of GPU Servers for CAI...
+--------------------------------------------------------------------------------
+Chunk 10:
+  Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities'}
+  Content Length: 175 chars
+  Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities
+Content: *Source of Truth: The IIIT Delhi Act 2007, Estate Office Protocols, Student Handbook*...
+--------------------------------------------------------------------------------
+Chunk 11:
+  Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities', 'Header 2': '2.1. Institutional Profile and Governance', 'Header 3': '2.1.1. Establishment and Legal Status'}
+  Content Length: 1056 chars
+  Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities > 2.1. Institutional Profile and Governance > 2.1.1. Establishment and Legal Status
+Content: *   **Official Name:** Ind...
+--------------------------------------------------------------------------------
+Chunk 12:
+  Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities', 'Header 2': '2.1. Institutional Profile and Governance', 'Header 3': '2.1.2. Vision and Mission'}
+  Content Length: 617 chars
+  Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities > 2.1. Institutional Profile and Governance > 2.1.2. Vision and Mission
+Content: *   **Vision:** To be a global center ...
+--------------------------------------------------------------------------------
+Chunk 13:
+  Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities', 'Header 2': '2.1. Institutional Profile and Governance', 'Header 3': '2.1.3. Governance Structure'}
+  Content Length: 828 chars
+  Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities > 2.1. Institutional Profile and Governance > 2.1.3. Governance Structure
+Content: The institute operates under a tiere...
+--------------------------------------------------------------------------------
+Chunk 14:
+  Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities', 'Header 2': '2.2. Campus Layout, Location, and Access Control', 'Header 3': '2.2.1. Geographic Details'}
+  Content Length: 741 chars
+  Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities > 2.2. Campus Layout, Location, and Access Control > 2.2.1. Geographic Details
+Content: *   **Address:** Okhla Industri...
+--------------------------------------------------------------------------------
+Chunk 15:
+  Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities', 'Header 2': '2.2. Campus Layout, Location, and Access Control', 'Header 3': '2.2.2. Gates and Entry Protocols'}
+  Content Length: 1305 chars
+  Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities > 2.2. Campus Layout, Location, and Access Control > 2.2.2. Gates and Entry Protocols
+Content: The campus is a secure z...
+--------------------------------------------------------------------------------
+Chunk 16:
+  Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities', 'Header 2': '2.2. Campus Layout, Location, and Access Control', 'Header 3': '2.2.3. Parking Regulations'}
+  Content Length: 839 chars
+  Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities > 2.2. Campus Layout, Location, and Access Control > 2.2.3. Parking Regulations
+Content: *   **Faculty/Staff Parking:**...
+--------------------------------------------------------------------------------
+Chunk 17:
+  Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities', 'Header 2': '2.3. Academic Infrastructure', 'Header 3': '2.3.1. R&D Block (Research & Development)'}
+  Content Length: 1246 chars
+  Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities > 2.3. Academic Infrastructure > 2.3.1. R&D Block (Research & Development)
+Content: The R&D Block is the flagship acade...
+--------------------------------------------------------------------------------
+Chunk 18:
+  Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities', 'Header 2': '2.3. Academic Infrastructure', 'Header 3': '2.3.2. Lecture Hall Complex (LHC)'}
+  Content Length: 1065 chars
+  Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities > 2.3. Academic Infrastructure > 2.3.2. Lecture Hall Complex (LHC)
+Content: The LHC is a separate block dedicated to in...
+--------------------------------------------------------------------------------
+Chunk 19:
+  Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities', 'Header 2': '2.3. Academic Infrastructure', 'Header 3': '2.3.3. Old Academic Building (OAB)'}
+  Content Length: 946 chars
+  Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities > 2.3. Academic Infrastructure > 2.3.3. Old Academic Building (OAB)
+Content: The administrative nerve center.
+*   **Key...
+--------------------------------------------------------------------------------
+Chunk 20:
+  Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities', 'Header 2': '2.3. Academic Infrastructure', 'Header 3': '2.3.4. New Academic Building (NAB)'}
+  Content Length: 714 chars
+  Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities > 2.3. Academic Infrastructure > 2.3.4. New Academic Building (NAB)
+Content: Built to accommodate the growth in departm...
+--------------------------------------------------------------------------------
+Chunk 21:
+  Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities', 'Header 2': '2.4. Student Facilities and Recreation', 'Header 3': '2.4.1. The Student Centre'}
+  Content Length: 1411 chars
+  Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities > 2.4. Student Facilities and Recreation > 2.4.1. The Student Centre
+Content: A dedicated building for student activiti...
+--------------------------------------------------------------------------------
+Chunk 22:
+  Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities', 'Header 2': '2.4. Student Facilities and Recreation', 'Header 3': '2.4.2. Sports Infrastructure'}
+  Content Length: 736 chars
+  Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities > 2.4. Student Facilities and Recreation > 2.4.2. Sports Infrastructure
+Content: *   **Playing Field:** A multi-purpose...
+--------------------------------------------------------------------------------
+Chunk 23:
+  Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities', 'Header 2': '2.5. Residential Infrastructure (Hostels)'}
+  Content Length: 258 chars
+  Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities > 2.5. Residential Infrastructure (Hostels)
+Content: IIITD is a fully residential campus for B.Tech students (for the f...
+--------------------------------------------------------------------------------
+Chunk 24:
+  Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities', 'Header 2': '2.5. Residential Infrastructure (Hostels)', 'Header 3': '2.5.1. Hostel Blocks'}
+  Content Length: 624 chars
+  Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities > 2.5. Residential Infrastructure (Hostels) > 2.5.1. Hostel Blocks
+Content: *   **Old Boys Hostel (OBH):** The first re...
+--------------------------------------------------------------------------------
+Chunk 25:
+  Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities', 'Header 2': '2.5. Residential Infrastructure (Hostels)', 'Header 3': '2.5.2. Hostel Amenities'}
+  Content Length: 672 chars
+  Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities > 2.5. Residential Infrastructure (Hostels) > 2.5.2. Hostel Amenities
+Content: *   **Common Rooms:** Each hostel has a ...
+--------------------------------------------------------------------------------
+Chunk 26:
+  Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities', 'Header 2': '2.5. Residential Infrastructure (Hostels)', 'Header 3': '2.5.3. Hostel Rules & Regulations'}
+  Content Length: 1026 chars
+  Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities > 2.5. Residential Infrastructure (Hostels) > 2.5.3. Hostel Rules & Regulations
+Content: *   **Possession of Room:** Ro...
+--------------------------------------------------------------------------------
+Chunk 27:
+  Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities', 'Header 2': '2.5. Residential Infrastructure (Hostels)', 'Header 3': '2.5.4. Faculty Housing'}
+  Content Length: 377 chars
+  Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities > 2.5. Residential Infrastructure (Hostels) > 2.5.4. Faculty Housing
+Content: *   **Towers:** There are dedicated resid...
+--------------------------------------------------------------------------------
+Chunk 28:
+  Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities', 'Header 2': '2.5. Residential Infrastructure (Hostels)', 'Header 3': '2.5.5. Guest House'}
+  Content Length: 400 chars
+  Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities > 2.5. Residential Infrastructure (Hostels) > 2.5.5. Guest House
+Content: *   **Location:** Top floors of the Faculty/H...
+--------------------------------------------------------------------------------
+Chunk 29:
+  Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities', 'Header 2': '2.6. Utilities and Support Services', 'Header 3': '2.6.1. IT Infrastructure (IMS - Information Management Services)'}
+  Content Length: 948 chars
+  Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities > 2.6. Utilities and Support Services > 2.6.1. IT Infrastructure (IMS - Information Management Services)
+Content: *   *...
+--------------------------------------------------------------------------------
+Chunk 30:
+  Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities', 'Header 2': '2.6. Utilities and Support Services', 'Header 3': '2.6.2. Medical Centre (Infirmary)'}
+  Content Length: 770 chars
+  Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities > 2.6. Utilities and Support Services > 2.6.2. Medical Centre (Infirmary)
+Content: *   **Location:** Ground Floor, Old ...
+--------------------------------------------------------------------------------
+Chunk 31:
+  Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities', 'Header 2': '2.6. Utilities and Support Services', 'Header 3': '2.6.3. Facility Management Services (FMS)'}
+  Content Length: 493 chars
+  Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities > 2.6. Utilities and Support Services > 2.6.3. Facility Management Services (FMS)
+Content: *   **Helpdesk:** Maintenanc...
+--------------------------------------------------------------------------------
+Chunk 32:
+  Metadata: {'Header 1': 'Section 2: Institutional Profile, Campus Infrastructure, and Facilities', 'Header 2': '2.6. Utilities and Support Services', 'Header 3': '2.6.4. Green Initiatives'}
+  Content Length: 497 chars
+  Content Preview: Context: Section 2: Institutional Profile, Campus Infrastructure, and Facilities > 2.6. Utilities and Support Services > 2.6.4. Green Initiatives
+Content: *   **Solar Power:** Rooftop solar panels gen...
+--------------------------------------------------------------------------------
+Chunk 33:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations'}
+  Content Length: 166 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations
+Content: *Source of Truth: UGC Guidelines, AICTE Handbook, IIITD Senate Ordinances (2025 Edition)*...
+--------------------------------------------------------------------------------
+Chunk 34:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.1. Academic Departments (The Entities)'}
+  Content Length: 186 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.1. Academic Departments (The Entities)
+Content: *(System Note: Map faculty and courses to these parent entities.)*...
+--------------------------------------------------------------------------------
+Chunk 35:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.1. Academic Departments (The Entities)', 'Header 3': '3.1.1. Department of Computer Science and Engineering (CSE)'}
+  Content Length: 782 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.1. Academic Departments (The Entities) > 3.1.1. Department of Computer Science and Engineering (CSE)
+Content: *   **Entity Code:...
+--------------------------------------------------------------------------------
+Chunk 36:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.1. Academic Departments (The Entities)', 'Header 3': '3.1.2. Department of Electronics and Communications Engineering (ECE)'}
+  Content Length: 664 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.1. Academic Departments (The Entities) > 3.1.2. Department of Electronics and Communications Engineering (ECE)
+Content: *   **En...
+--------------------------------------------------------------------------------
+Chunk 37:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.1. Academic Departments (The Entities)', 'Header 3': '3.1.3. Department of Computational Biology (CB)'}
+  Content Length: 531 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.1. Academic Departments (The Entities) > 3.1.3. Department of Computational Biology (CB)
+Content: *   **Entity Code:** CB
+*   **...
+--------------------------------------------------------------------------------
+Chunk 38:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.1. Academic Departments (The Entities)', 'Header 3': '3.1.4. Department of Human-Centered Design (HCD)'}
+  Content Length: 469 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.1. Academic Departments (The Entities) > 3.1.4. Department of Human-Centered Design (HCD)
+Content: *   **Entity Code:** HCD (for...
+--------------------------------------------------------------------------------
+Chunk 39:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.1. Academic Departments (The Entities)', 'Header 3': '3.1.5. Department of Social Sciences and Humanities (SSH)'}
+  Content Length: 398 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.1. Academic Departments (The Entities) > 3.1.5. Department of Social Sciences and Humanities (SSH)
+Content: *   **Entity Code:**...
+--------------------------------------------------------------------------------
+Chunk 40:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.1. Academic Departments (The Entities)', 'Header 3': '3.1.6. Department of Mathematics (Math)'}
+  Content Length: 352 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.1. Academic Departments (The Entities) > 3.1.6. Department of Mathematics (Math)
+Content: *   **Entity Code:** MATH
+*   **Head o...
+--------------------------------------------------------------------------------
+Chunk 41:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.2. Undergraduate Programs (B.Tech)'}
+  Content Length: 213 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.2. Undergraduate Programs (B.Tech)
+Content: *(Crucial for Admission and Curriculum queries. IIITD offers unique interdisciplinar...
+--------------------------------------------------------------------------------
+Chunk 42:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.2. Undergraduate Programs (B.Tech)', 'Header 3': '3.2.1. Program Structure Overview'}
+  Content Length: 565 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.2. Undergraduate Programs (B.Tech) > 3.2.1. Program Structure Overview
+Content: *   **Duration:** 4 Years (8 Semesters).
+*   **T...
+--------------------------------------------------------------------------------
+Chunk 43:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.2. Undergraduate Programs (B.Tech)', 'Header 3': '3.2.2. The Branches (Entities)'}
+  Content Length: 3201 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.2. Undergraduate Programs (B.Tech) > 3.2.2. The Branches (Entities)
+Content: #### A. Computer Science and Engineering (CSE)
+*   ...
+--------------------------------------------------------------------------------
+Chunk 44:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.3. Postgraduate Programs', 'Header 3': '3.3.1. M.Tech (Master of Technology)'}
+  Content Length: 687 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.3. Postgraduate Programs > 3.3.1. M.Tech (Master of Technology)
+Content: *   **Duration:** 2 Years.
+*   **Thesis Option:**
+*   *...
+--------------------------------------------------------------------------------
+Chunk 45:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.3. Postgraduate Programs', 'Header 3': '3.3.2. Ph.D. (Doctor of Philosophy)'}
+  Content Length: 629 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.3. Postgraduate Programs > 3.3.2. Ph.D. (Doctor of Philosophy)
+Content: *   **Nature:** Research-intensive.
+*   **Stipend:** Reg...
+--------------------------------------------------------------------------------
+Chunk 46:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.4. Academic Rules and Regulations (The "Law")'}
+  Content Length: 238 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.4. Academic Rules and Regulations (The "Law")
+Content: *(High Retrieval Importance: Users frequently ask "What happens if I fail...
+--------------------------------------------------------------------------------
+Chunk 47:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.4. Academic Rules and Regulations (The "Law")', 'Header 3': '3.4.1. The Grading System'}
+  Content Length: 905 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.4. Academic Rules and Regulations (The "Law") > 3.4.1. The Grading System
+Content: *   **Type:** Relative Grading (for large cla...
+--------------------------------------------------------------------------------
+Chunk 48:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.4. Academic Rules and Regulations (The "Law")', 'Header 3': '3.4.2. Attendance Policy (Strict)'}
+  Content Length: 650 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.4. Academic Rules and Regulations (The "Law") > 3.4.2. Attendance Policy (Strict)
+Content: *   **Rule:** 100% attendance is expe...
+--------------------------------------------------------------------------------
+Chunk 49:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.4. Academic Rules and Regulations (The "Law")', 'Header 3': '3.4.3. Plagiarism and Academic Integrity (The "X" Grade)'}
+  Content Length: 786 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.4. Academic Rules and Regulations (The "Law") > 3.4.3. Plagiarism and Academic Integrity (The "X" Grade)
+Content: *   **Policy:*...
+--------------------------------------------------------------------------------
+Chunk 50:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.4. Academic Rules and Regulations (The "Law")', 'Header 3': '3.4.4. Add/Drop and Withdrawal'}
+  Content Length: 641 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.4. Academic Rules and Regulations (The "Law") > 3.4.4. Add/Drop and Withdrawal
+Content: *   **Add/Drop Period:** Usually the fir...
+--------------------------------------------------------------------------------
+Chunk 51:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.4. Academic Rules and Regulations (The "Law")', 'Header 3': '3.4.5. Probation and Termination'}
+  Content Length: 578 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.4. Academic Rules and Regulations (The "Law") > 3.4.5. Probation and Termination
+Content: *   **Academic Warning:** If SGPA < 4....
+--------------------------------------------------------------------------------
+Chunk 52:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.5. Unique Academic Components (Entities)', 'Header 3': '3.5.1. SG and CW (Self Growth & Community Work)'}
+  Content Length: 468 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.5. Unique Academic Components (Entities) > 3.5.1. SG and CW (Self Growth & Community Work)
+Content: *   **Course Code:** SG / CW...
+--------------------------------------------------------------------------------
+Chunk 53:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.5. Unique Academic Components (Entities)', 'Header 3': '3.5.2. B.Tech Project (BTP)'}
+  Content Length: 433 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.5. Unique Academic Components (Entities) > 3.5.2. B.Tech Project (BTP)
+Content: *   **Nature:** Optional research project under ...
+--------------------------------------------------------------------------------
+Chunk 54:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.5. Unique Academic Components (Entities)', 'Header 3': '3.5.3. Independent Project (IP) / Independent Study (IS)'}
+  Content Length: 490 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.5. Unique Academic Components (Entities) > 3.5.3. Independent Project (IP) / Independent Study (IS)
+Content: *   **IP:** Buildin...
+--------------------------------------------------------------------------------
+Chunk 55:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.5. Unique Academic Components (Entities)', 'Header 3': '3.5.4. Teaching Assistantship (TA)'}
+  Content Length: 407 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.5. Unique Academic Components (Entities) > 3.5.4. Teaching Assistantship (TA)
+Content: *   **Eligibility:** Generally M.Tech/Ph....
+--------------------------------------------------------------------------------
+Chunk 56:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.6. Awards and Recognitions', 'Header 3': "3.6.1. Dean's List"}
+  Content Length: 565 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.6. Awards and Recognitions > 3.6.1. Dean's List
+Content: *   **Criteria:** Awarded to students for academic excellence in a seme...
+--------------------------------------------------------------------------------
+Chunk 57:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.6. Awards and Recognitions', 'Header 3': '3.6.2. Graduation Awards'}
+  Content Length: 403 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.6. Awards and Recognitions > 3.6.2. Graduation Awards
+Content: *   **Chancellor's Gold Medal:** Best overall academic performanc...
+--------------------------------------------------------------------------------
+Chunk 58:
+  Metadata: {'Header 1': 'Section 3: Academic Departments, Programs, and Regulations', 'Header 2': '3.7. Essential Course List (Keywords for Retrieval)'}
+  Content Length: 844 chars
+  Content Preview: Context: Section 3: Academic Departments, Programs, and Regulations > 3.7. Essential Course List (Keywords for Retrieval)
+Content: *(Detailed keywords to help BM25 find specific courses)*  
+*   **CSE1...
+--------------------------------------------------------------------------------
+Chunk 59:
+  Metadata: {'Header 1': 'Section 4: Student Life, Council, and Extracurriculars'}
+  Content Length: 147 chars
+  Content Preview: Context: Section 4: Student Life, Council, and Extracurriculars
+Content: *Source of Truth: Office of Student Affairs, Student Council Constitution*...
+--------------------------------------------------------------------------------
+Chunk 60:
+  Metadata: {'Header 1': 'Section 4: Student Life, Council, and Extracurriculars', 'Header 2': '4.1. Student Self-Governance', 'Header 3': '4.1.1. The Student Council'}
+  Content Length: 1182 chars
+  Content Preview: Context: Section 4: Student Life, Council, and Extracurriculars > 4.1. Student Self-Governance > 4.1.1. The Student Council
+Content: The Student Council is the primary representative body of the stude...
+--------------------------------------------------------------------------------
+Chunk 61:
+  Metadata: {'Header 1': 'Section 4: Student Life, Council, and Extracurriculars', 'Header 2': '4.1. Student Self-Governance', 'Header 3': '4.1.2. The Student Senate'}
+  Content Length: 415 chars
+  Content Preview: Context: Section 4: Student Life, Council, and Extracurriculars > 4.1. Student Self-Governance > 4.1.2. The Student Senate
+Content: *   **Role:** While the Council is Executive, the Senate is often th...
+--------------------------------------------------------------------------------
+Chunk 62:
+  Metadata: {'Header 1': 'Section 4: Student Life, Council, and Extracurriculars', 'Header 2': '4.2. Technical Clubs (The "Coding Culture")'}
+  Content Length: 352 chars
+  Content Preview: Context: Section 4: Student Life, Council, and Extracurriculars > 4.2. Technical Clubs (The "Coding Culture")
+Content: *(Entity Density: High. These keywords are essential for "vibe" queries.)*  
+IIIT...
+--------------------------------------------------------------------------------
+Chunk 63:
+  Metadata: {'Header 1': 'Section 4: Student Life, Council, and Extracurriculars', 'Header 2': '4.2. Technical Clubs (The "Coding Culture")', 'Header 3': 'A. Coding & Development'}
+  Content Length: 940 chars
+  Content Preview: Context: Section 4: Student Life, Council, and Extracurriculars > 4.2. Technical Clubs (The "Coding Culture") > A. Coding & Development
+Content: *   **CyFuse (Software Development Club):**
+*   **Focus...
+--------------------------------------------------------------------------------
+Chunk 64:
+  Metadata: {'Header 1': 'Section 4: Student Life, Council, and Extracurriculars', 'Header 2': '4.2. Technical Clubs (The "Coding Culture")', 'Header 3': 'B. Niche Technology'}
+  Content Length: 854 chars
+  Content Preview: Context: Section 4: Student Life, Council, and Extracurriculars > 4.2. Technical Clubs (The "Coding Culture") > B. Niche Technology
+Content: *   **d4rkc0de (Security & CTF Club):**
+*   **Focus:** Cybe...
+--------------------------------------------------------------------------------
+Chunk 65:
+  Metadata: {'Header 1': 'Section 4: Student Life, Council, and Extracurriculars', 'Header 2': '4.2. Technical Clubs (The "Coding Culture")', 'Header 3': 'C. Specialized Interest'}
+  Content Length: 641 chars
+  Content Preview: Context: Section 4: Student Life, Council, and Extracurriculars > 4.2. Technical Clubs (The "Coding Culture") > C. Specialized Interest
+Content: *   **Lean In IIITD:**
+*   **Affiliation:** Chapter of ...
+--------------------------------------------------------------------------------
+Chunk 66:
+  Metadata: {'Header 1': 'Section 4: Student Life, Council, and Extracurriculars', 'Header 2': '4.3. Cultural and Social Clubs'}
+  Content Length: 144 chars
+  Content Preview: Context: Section 4: Student Life, Council, and Extracurriculars > 4.3. Cultural and Social Clubs
+Content: *(Keywords for "Campus Life" queries)*...
+--------------------------------------------------------------------------------
+Chunk 67:
+  Metadata: {'Header 1': 'Section 4: Student Life, Council, and Extracurriculars', 'Header 2': '4.3. Cultural and Social Clubs', 'Header 3': 'A. Performing Arts'}
+  Content Length: 743 chars
+  Content Preview: Context: Section 4: Student Life, Council, and Extracurriculars > 4.3. Cultural and Social Clubs > A. Performing Arts
+Content: *   **AudioBytes (Music Club):**
+*   **Vibe:** The soul of the campus.
+* ...
+--------------------------------------------------------------------------------
+Chunk 68:
+  Metadata: {'Header 1': 'Section 4: Student Life, Council, and Extracurriculars', 'Header 2': '4.3. Cultural and Social Clubs', 'Header 3': 'B. Creative Arts'}
+  Content Length: 680 chars
+  Content Preview: Context: Section 4: Student Life, Council, and Extracurriculars > 4.3. Cultural and Social Clubs > B. Creative Arts
+Content: *   **Meraki (Fine Arts Club):**
+*   **Focus:** Painting, Sketching, Digita...
+--------------------------------------------------------------------------------
+Chunk 69:
+  Metadata: {'Header 1': 'Section 4: Student Life, Council, and Extracurriculars', 'Header 2': '4.3. Cultural and Social Clubs', 'Header 3': 'C. Social & Community'}
+  Content Length: 426 chars
+  Content Preview: Context: Section 4: Student Life, Council, and Extracurriculars > 4.3. Cultural and Social Clubs > C. Social & Community
+Content: *   **Enactus IIITD:**
+*   **Focus:** Social Entrepreneurship. Using b...
+--------------------------------------------------------------------------------
+Chunk 70:
+  Metadata: {'Header 1': 'Section 4: Student Life, Council, and Extracurriculars', 'Header 2': '4.4. Campus Fests (The "High Points")', 'Header 3': '4.4.1. Odyssey (Cultural Fest)'}
+  Content Length: 539 chars
+  Content Preview: Context: Section 4: Student Life, Council, and Extracurriculars > 4.4. Campus Fests (The "High Points") > 4.4.1. Odyssey (Cultural Fest)
+Content: *   **Time:** Usually **January/February**.
+*   **Dura...
+--------------------------------------------------------------------------------
+Chunk 71:
+  Metadata: {'Header 1': 'Section 4: Student Life, Council, and Extracurriculars', 'Header 2': '4.4. Campus Fests (The "High Points")', 'Header 3': '4.4.2. Esya (Technical Fest)'}
+  Content Length: 497 chars
+  Content Preview: Context: Section 4: Student Life, Council, and Extracurriculars > 4.4. Campus Fests (The "High Points") > 4.4.2. Esya (Technical Fest)
+Content: *   **Time:** Usually **August/September**.
+*   **Theme:...
+--------------------------------------------------------------------------------
+Chunk 72:
+  Metadata: {'Header 1': 'Section 4: Student Life, Council, and Extracurriculars', 'Header 2': '4.4. Campus Fests (The "High Points")', 'Header 3': '4.4.3. RIISE (Research Showcase)'}
+  Content Length: 408 chars
+  Content Preview: Context: Section 4: Student Life, Council, and Extracurriculars > 4.4. Campus Fests (The "High Points") > 4.4.3. RIISE (Research Showcase)
+Content: *   **Full Form:** Research Innovation and Incubatio...
+--------------------------------------------------------------------------------
+Chunk 73:
+  Metadata: {'Header 1': 'Section 4: Student Life, Council, and Extracurriculars', 'Header 2': '4.4. Campus Fests (The "High Points")', 'Header 3': '4.4.4. Astra (Sports Fest)'}
+  Content Length: 235 chars
+  Content Preview: Context: Section 4: Student Life, Council, and Extracurriculars > 4.4. Campus Fests (The "High Points") > 4.4.4. Astra (Sports Fest)
+Content: *   **Focus:** Inter-college sports tournament (often invo...
+--------------------------------------------------------------------------------
+Chunk 74:
+  Metadata: {'Header 1': 'Section 4: Student Life, Council, and Extracurriculars', 'Header 2': '4.4. Campus Fests (The "High Points")', 'Header 3': '4.4.5. Karwaan (Sports Fest)'}
+  Content Length: 234 chars
+  Content Preview: Context: Section 4: Student Life, Council, and Extracurriculars > 4.4. Campus Fests (The "High Points") > 4.4.5. Karwaan (Sports Fest)
+Content: *   **Focus:** Inter-Branch sports tournament, for the b...
+--------------------------------------------------------------------------------
+Chunk 75:
+  Metadata: {'Header 1': 'Section 4: Student Life, Council, and Extracurriculars', 'Header 2': '4.5. Student Support Initiatives', 'Header 3': '4.5.1. Mentorship Program (SMP)'}
+  Content Length: 435 chars
+  Content Preview: Context: Section 4: Student Life, Council, and Extracurriculars > 4.5. Student Support Initiatives > 4.5.1. Mentorship Program (SMP)
+Content: *   **Structure:** Every 1st-year student is assigned a **...
+--------------------------------------------------------------------------------
+Chunk 76:
+  Metadata: {'Header 1': 'Section 4: Student Life, Council, and Extracurriculars', 'Header 2': '4.5. Student Support Initiatives', 'Header 3': '4.5.2. Institute Innovation Council (IIC) & E-Cell'}
+  Content Length: 580 chars
+  Content Preview: Context: Section 4: Student Life, Council, and Extracurriculars > 4.5. Student Support Initiatives > 4.5.2. Institute Innovation Council (IIC) & E-Cell
+Content: *   **IIITD-IC (Incubation Center):**
+*...
+--------------------------------------------------------------------------------
+Chunk 77:
+  Metadata: {'Header 1': 'Section 4: Student Life, Council, and Extracurriculars', 'Header 2': '4.6. "Vibe" and Campus Terminology (Slang/Fuzzy)'}
+  Content Length: 904 chars
+  Content Preview: Context: Section 4: Student Life, Council, and Extracurriculars > 4.6. "Vibe" and Campus Terminology (Slang/Fuzzy)
+Content: *(Crucial for Semantic Search handling conversational queries)*  
+*   **"The...
+--------------------------------------------------------------------------------
+Chunk 78:
+  Metadata: {'Header 1': 'Section 5: Undergraduate & Postgraduate Admissions'}
+  Content Length: 143 chars
+  Content Preview: Context: Section 5: Undergraduate & Postgraduate Admissions
+Content: *Source of Truth: JAC Delhi Brochure 2025, Senate Ordinance on Admissions*...
+--------------------------------------------------------------------------------
+Chunk 79:
+  Metadata: {'Header 1': 'Section 5: Undergraduate & Postgraduate Admissions', 'Header 2': '5.1. B.Tech Admission (The JAC Delhi Ecosystem)', 'Header 3': '5.1.1. Governance & Authority'}
+  Content Length: 501 chars
+  Content Preview: Context: Section 5: Undergraduate & Postgraduate Admissions > 5.1. B.Tech Admission (The JAC Delhi Ecosystem) > 5.1.1. Governance & Authority
+Content: *   **Admitting Authority:** Joint Admission Coun...
+--------------------------------------------------------------------------------
+Chunk 80:
+  Metadata: {'Header 1': 'Section 5: Undergraduate & Postgraduate Admissions', 'Header 2': '5.1. B.Tech Admission (The JAC Delhi Ecosystem)', 'Header 3': '5.1.2. The "Region" Entity (Critical Definition)'}
+  Content Length: 835 chars
+  Content Preview: Context: Section 5: Undergraduate & Postgraduate Admissions > 5.1. B.Tech Admission (The JAC Delhi Ecosystem) > 5.1.2. The "Region" Entity (Critical Definition)
+Content: The single most confusing enti...
+--------------------------------------------------------------------------------
+Chunk 81:
+  Metadata: {'Header 1': 'Section 5: Undergraduate & Postgraduate Admissions', 'Header 2': '5.1. B.Tech Admission (The JAC Delhi Ecosystem)', 'Header 3': '5.1.3. Branch-Specific Eligibility Criteria'}
+  Content Length: 630 chars
+  Content Preview: Context: Section 5: Undergraduate & Postgraduate Admissions > 5.1. B.Tech Admission (The JAC Delhi Ecosystem) > 5.1.3. Branch-Specific Eligibility Criteria
+Content: *(Criteria for 2025 Admission)*
+*  ...
+--------------------------------------------------------------------------------
+Chunk 82:
+  Metadata: {'Header 1': 'Section 5: Undergraduate & Postgraduate Admissions', 'Header 2': '5.1. B.Tech Admission (The JAC Delhi Ecosystem)', 'Header 3': '5.1.4. The Bonus Point Mechanism (Detailed Calculation)'}
+  Content Length: 1553 chars
+  Content Preview: Context: Section 5: Undergraduate & Postgraduate Admissions > 5.1. B.Tech Admission (The JAC Delhi Ecosystem) > 5.1.4. The Bonus Point Mechanism (Detailed Calculation)
+Content: IIITD offers up to **2 ...
+--------------------------------------------------------------------------------
+Chunk 83:
+  Metadata: {'Header 1': 'Section 5: Undergraduate & Postgraduate Admissions', 'Header 2': '5.1. B.Tech Admission (The JAC Delhi Ecosystem)', 'Header 3': '5.1.5. Counselling Process Entities'}
+  Content Length: 796 chars
+  Content Preview: Context: Section 5: Undergraduate & Postgraduate Admissions > 5.1. B.Tech Admission (The JAC Delhi Ecosystem) > 5.1.5. Counselling Process Entities
+Content: *   **Freeze:** The candidate accepts the a...
+--------------------------------------------------------------------------------
+Chunk 84:
+  Metadata: {'Header 1': 'Section 6: Fees, Financial Aid & Refunds'}
+  Content Length: 106 chars
+  Content Preview: Context: Section 6: Fees, Financial Aid & Refunds
+Content: *Source of Truth: IIITD Finance Circulars 2025*...
+--------------------------------------------------------------------------------
+Chunk 85:
+  Metadata: {'Header 1': 'Section 6: Fees, Financial Aid & Refunds', 'Header 2': '6.1. Fee Structure Breakdown'}
+  Content Length: 176 chars
+  Content Preview: Context: Section 6: Fees, Financial Aid & Refunds > 6.1. Fee Structure Breakdown
+Content: *(Note to System: Fees are subject to 5-10% annual revision. Use these as baselines.)*...
+--------------------------------------------------------------------------------
+Chunk 86:
+  Metadata: {'Header 1': 'Section 6: Fees, Financial Aid & Refunds', 'Header 2': '6.1. Fee Structure Breakdown', 'Header 3': '6.1.1. The Components'}
+  Content Length: 599 chars
+  Content Preview: Context: Section 6: Fees, Financial Aid & Refunds > 6.1. Fee Structure Breakdown > 6.1.1. The Components
+Content: 1.  **Tuition Fee:** Charged per semester. The largest component.
+*   *Baseline:* ~Rs....
+--------------------------------------------------------------------------------
+Chunk 87:
+  Metadata: {'Header 1': 'Section 6: Fees, Financial Aid & Refunds', 'Header 2': '6.1. Fee Structure Breakdown', 'Header 3': '6.1.2. Payment Protocols'}
+  Content Length: 623 chars
+  Content Preview: Context: Section 6: Fees, Financial Aid & Refunds > 6.1. Fee Structure Breakdown > 6.1.2. Payment Protocols
+Content: *   **Portal:** Payments are made via the **IIITD ERP (Payments Module)** or a desi...
+--------------------------------------------------------------------------------
+Chunk 88:
+  Metadata: {'Header 1': 'Section 6: Fees, Financial Aid & Refunds', 'Header 2': '6.2. Hostel & Mess Financials'}
+  Content Length: 543 chars
+  Content Preview: Context: Section 6: Fees, Financial Aid & Refunds > 6.2. Hostel & Mess Financials
+Content: *   **Hostel Fee:**
+*   **Single Room:** (Rare, mostly for Ph.D./Medical needs) Highest bracket.
+*   **Double...
+--------------------------------------------------------------------------------
+Chunk 89:
+  Metadata: {'Header 1': 'Section 6: Fees, Financial Aid & Refunds', 'Header 2': '6.3. The "Delhi Government Fee Waiver" (Detailed Rules)'}
+  Content Length: 1138 chars
+  Content Preview: Context: Section 6: Fees, Financial Aid & Refunds > 6.3. The "Delhi Government Fee Waiver" (Detailed Rules)
+Content: This is the most critical financial aid query.
+*   **Official Name:** Merit-cum-Mea...
+--------------------------------------------------------------------------------
+Chunk 90:
+  Metadata: {'Header 1': 'Section 6: Fees, Financial Aid & Refunds', 'Header 2': '6.4. Refund Policy (Withdrawal)'}
+  Content Length: 529 chars
+  Content Preview: Context: Section 6: Fees, Financial Aid & Refunds > 6.4. Refund Policy (Withdrawal)
+Content: *   **Admission Withdrawal (B.Tech):**
+*   Follows the **UGC/JAC Guidelines**.
+*   **100% Refund:** If with...
+--------------------------------------------------------------------------------
+Chunk 91:
+  Metadata: {'Header 1': 'Section 7: Placements, Internships & Corporate Relations'}
+  Content Length: 118 chars
+  Content Preview: Context: Section 7: Placements, Internships & Corporate Relations
+Content: *Source of Truth: Placement Policy 2025-26*...
+--------------------------------------------------------------------------------
+Chunk 92:
+  Metadata: {'Header 1': 'Section 7: Placements, Internships & Corporate Relations', 'Header 2': '7.1. Placement Classification & Terminology'}
+  Content Length: 861 chars
+  Content Preview: Context: Section 7: Placements, Internships & Corporate Relations > 7.1. Placement Classification & Terminology
+Content: *(Semantic Context: When a user asks "What is a Dream Company?", use this.)*  
+...
+--------------------------------------------------------------------------------
+Chunk 93:
+  Metadata: {'Header 1': 'Section 7: Placements, Internships & Corporate Relations', 'Header 2': '7.2. The "One Student One Job" Rule (Exceptions & Nuances)'}
+  Content Length: 689 chars
+  Content Preview: Context: Section 7: Placements, Internships & Corporate Relations > 7.2. The "One Student One Job" Rule (Exceptions & Nuances)
+Content: *   **The Golden Rule:** A student is deregistered from placemen...
+--------------------------------------------------------------------------------
+Chunk 94:
+  Metadata: {'Header 1': 'Section 7: Placements, Internships & Corporate Relations', 'Header 2': '7.3. Internship Policies', 'Header 3': '7.3.1. Types of Internships'}
+  Content Length: 646 chars
+  Content Preview: Context: Section 7: Placements, Internships & Corporate Relations > 7.3. Internship Policies > 7.3.1. Types of Internships
+Content: 1.  **Summer Internship (Credit Bearing):**
+*   **Duration:** 6-8 we...
+--------------------------------------------------------------------------------
+Chunk 95:
+  Metadata: {'Header 1': 'Section 7: Placements, Internships & Corporate Relations', 'Header 2': '7.3. Internship Policies', 'Header 3': '7.3.2. PPO (Pre-Placement Offer) Protocol'}
+  Content Length: 448 chars
+  Content Preview: Context: Section 7: Placements, Internships & Corporate Relations > 7.3. Internship Policies > 7.3.2. PPO (Pre-Placement Offer) Protocol
+Content: *   **Acceptance Deadline:** Students receiving PPOs i...
+--------------------------------------------------------------------------------
+Chunk 96:
+  Metadata: {'Header 1': 'Section 7: Placements, Internships & Corporate Relations', 'Header 2': '7.4. Debarment & Disciplinary Actions (Placements)'}
+  Content Length: 673 chars
+  Content Preview: Context: Section 7: Placements, Internships & Corporate Relations > 7.4. Debarment & Disciplinary Actions (Placements)
+Content: A student can be **Debarred** (banned) from placements for:
+1.  **No-Sho...
+--------------------------------------------------------------------------------
+Chunk 97:
+  Metadata: {'Header 1': 'Section 7: Placements, Internships & Corporate Relations', 'Header 2': '7.5. Support for Higher Studies (Non-Placement Track)'}
+  Content Length: 679 chars
+  Content Preview: Context: Section 7: Placements, Internships & Corporate Relations > 7.5. Support for Higher Studies (Non-Placement Track)
+Content: *   **LoR (Letter of Recommendation):**
+*   **Process:** Students req...
+--------------------------------------------------------------------------------
+Chunk 98:
+  Metadata: {'Header 1': 'Section 7: Placements, Internships & Corporate Relations', 'Header 2': '7.6. Alumni & Entrepreneurship Support'}
+  Content Length: 613 chars
+  Content Preview: Context: Section 7: Placements, Internships & Corporate Relations > 7.6. Alumni & Entrepreneurship Support
+Content: *   **Deferred Placement Policy (Detailed):**
+*   **Eligibility:** Student must have...
+--------------------------------------------------------------------------------
+Chunk 99:
+  Metadata: {'Header 1': 'Section 8: IT Infrastructure & Digital Services'}
+  Content Length: 152 chars
+  Content Preview: Context: Section 8: IT Infrastructure & Digital Services
+Content: *Source of Truth: IMS (Information Management Services) Policy, Intranet (Nurecampus)*...
+--------------------------------------------------------------------------------
+Chunk 100:
+  Metadata: {'Header 1': 'Section 8: IT Infrastructure & Digital Services', 'Header 2': '8.1. The "Nurecampus" ERP Ecosystem (Entity)'}
+  Content Length: 593 chars
+  Content Preview: Context: Section 8: IT Infrastructure & Digital Services > 8.1. The "Nurecampus" ERP Ecosystem (Entity)
+Content: *(Crucial: "Nurecampus" is the internal name for the ERP. Users will use this term.)*  ...
+--------------------------------------------------------------------------------
+Chunk 101:
+  Metadata: {'Header 1': 'Section 8: IT Infrastructure & Digital Services', 'Header 2': '8.2. Learning Management System (LMS)'}
+  Content Length: 230 chars
+  Content Preview: Context: Section 8: IT Infrastructure & Digital Services > 8.2. Learning Management System (LMS)
+Content: *   **GCR (Google Classroom):** Students must check the course syllabus (Course Description) f...
+--------------------------------------------------------------------------------
+Chunk 102:
+  Metadata: {'Header 1': 'Section 8: IT Infrastructure & Digital Services', 'Header 2': '8.3. Network & Connectivity Rules', 'Header 3': '8.3.1. Wi-Fi SSIDs'}
+  Content Length: 502 chars
+  Content Preview: Context: Section 8: IT Infrastructure & Digital Services > 8.3. Network & Connectivity Rules > 8.3.1. Wi-Fi SSIDs
+Content: *   **Laptop - S and Mobile - S:**
+*   **Auth:** 802.1x (Enterprise). Require...
+--------------------------------------------------------------------------------
+Chunk 103:
+  Metadata: {'Header 1': 'Section 8: IT Infrastructure & Digital Services', 'Header 2': '8.3. Network & Connectivity Rules', 'Header 3': '8.3.2. VPN (Remote Access)'}
+  Content Length: 328 chars
+  Content Preview: Context: Section 8: IT Infrastructure & Digital Services > 8.3. Network & Connectivity Rules > 8.3.2. VPN (Remote Access)
+Content: *   **Protocol:** Forticlient.
+*   **Usage:** Essential for accessing...
+--------------------------------------------------------------------------------
+Chunk 104:
+  Metadata: {'Header 1': 'Section 8: IT Infrastructure & Digital Services', 'Header 2': '8.4. Digital Utilities & Software'}
+  Content Length: 452 chars
+  Content Preview: Context: Section 8: IT Infrastructure & Digital Services > 8.4. Digital Utilities & Software
+Content: IIITD provides campus-wide licenses for:
+*   **Microsoft Office 365:** Free for all students (via ...
+--------------------------------------------------------------------------------
+Chunk 105:
+  Metadata: {'Header 1': 'Section 9: Centers of Excellence & Research Facilities'}
+  Content Length: 121 chars
+  Content Preview: Context: Section 9: Centers of Excellence & Research Facilities
+Content: *Source of Truth: R&D Brochure, Center Websites*...
+--------------------------------------------------------------------------------
+Chunk 106:
+  Metadata: {'Header 1': 'Section 9: Centers of Excellence & Research Facilities', 'Header 2': '9.1. CAI (Centre for Artificial Intelligence)'}
+  Content Length: 520 chars
+  Content Preview: Context: Section 9: Centers of Excellence & Research Facilities > 9.1. CAI (Centre for Artificial Intelligence)
+Content: *   **Mandate:** The flagship AI research hub.
+*   **Infrastructure (Compute):*...
+--------------------------------------------------------------------------------
+Chunk 107:
+  Metadata: {'Header 1': 'Section 9: Centers of Excellence & Research Facilities', 'Header 2': '9.2. CDNM (Centre for Design and New Media)'}
+  Content Length: 437 chars
+  Content Preview: Context: Section 9: Centers of Excellence & Research Facilities > 9.2. CDNM (Centre for Design and New Media)
+Content: *   **Mandate:** Supports the Human-Centered Design (HCD) department.
+*   **Labs:...
+--------------------------------------------------------------------------------
+Chunk 108:
+  Metadata: {'Header 1': 'Section 9: Centers of Excellence & Research Facilities', 'Header 2': '9.3. CBPS (Centre for Cyber-Physical Systems)'}
+  Content Length: 390 chars
+  Content Preview: Context: Section 9: Centers of Excellence & Research Facilities > 9.3. CBPS (Centre for Cyber-Physical Systems)
+Content: *   **Mandate:** Integration of computation with physical processes.
+*   **Smar...
+--------------------------------------------------------------------------------
+Chunk 109:
+  Metadata: {'Header 1': 'Section 9: Centers of Excellence & Research Facilities', 'Header 2': '9.4. CoE-Healthcare (Centre of Excellence in Healthcare)'}
+  Content Length: 396 chars
+  Content Preview: Context: Section 9: Centers of Excellence & Research Facilities > 9.4. CoE-Healthcare (Centre of Excellence in Healthcare)
+Content: *   **Focus:** Intersection of AI, Biology, and Medicine.
+*   **Part...
+--------------------------------------------------------------------------------
+Chunk 110:
+  Metadata: {'Header 1': 'Section 9: Centers of Excellence & Research Facilities', 'Header 2': '9.5. LiFi (Light Fidelity) Center'}
+  Content Length: 291 chars
+  Content Preview: Context: Section 9: Centers of Excellence & Research Facilities > 9.5. LiFi (Light Fidelity) Center
+Content: *   **Uniqueness:** One of the few centers in Asia focused on VLC (Visible Light Communicat...
+--------------------------------------------------------------------------------
+Chunk 111:
+  Metadata: {'Header 1': 'Section 10: Governance, Safety & Compliance'}
+  Content Length: 131 chars
+  Content Preview: Context: Section 10: Governance, Safety & Compliance
+Content: *Source of Truth: UGC Guidelines, POSH Act, Supreme Court Directives*...
+--------------------------------------------------------------------------------
+Chunk 112:
+  Metadata: {'Header 1': 'Section 10: Governance, Safety & Compliance', 'Header 2': '10.1. ICC (Internal Complaints Committee)'}
+  Content Length: 786 chars
+  Content Preview: Context: Section 10: Governance, Safety & Compliance > 10.1. ICC (Internal Complaints Committee)
+Content: *   **Mandate:** Statutory body formed under the **POSH Act** (Prevention of Sexual Harassment...
+--------------------------------------------------------------------------------
+Chunk 113:
+  Metadata: {'Header 1': 'Section 10: Governance, Safety & Compliance', 'Header 2': '10.2. Anti-Ragging Policy'}
+  Content Length: 535 chars
+  Content Preview: Context: Section 10: Governance, Safety & Compliance > 10.2. Anti-Ragging Policy
+Content: *   **Status:** Ragging is a **Criminal Offence**.
+*   **Definition:** Any act of physical/mental abuse, teasi...
+--------------------------------------------------------------------------------
+Chunk 114:
+  Metadata: {'Header 1': 'Section 10: Governance, Safety & Compliance', 'Header 2': '10.3. RTI (Right to Information)'}
+  Content Length: 425 chars
+  Content Preview: Context: Section 10: Governance, Safety & Compliance > 10.3. RTI (Right to Information)
+Content: *   **Status:** As a State University, IIITD is a "Public Authority" under the RTI Act, 2005.
+*   **PIO...
+--------------------------------------------------------------------------------
+Chunk 115:
+  Metadata: {'Header 1': 'Section 10: Governance, Safety & Compliance', 'Header 2': '10.4. Student Conduct Rules (The "Code")'}
+  Content Length: 611 chars
+  Content Preview: Context: Section 10: Governance, Safety & Compliance > 10.4. Student Conduct Rules (The "Code")
+Content: *   **Substance Abuse:** Zero Tolerance.
+*   **Rule:** Consumption or possession of Alcohol/Dru...
+--------------------------------------------------------------------------------
+Chunk 116:
+  Metadata: {'Header 1': 'Section 10: Governance, Safety & Compliance', 'Header 2': '10.5. Green Policy (Sustainability)'}
+  Content Length: 376 chars
+  Content Preview: Context: Section 10: Governance, Safety & Compliance > 10.5. Green Policy (Sustainability)
+Content: *   **Single-Use Plastic:** Banned on campus.
+*   **Smoking:** IIITD is a **No-Smoking Zone**. Smoki...
+--------------------------------------------------------------------------------
+Chunk 117:
+  Metadata: {'Header 1': 'Section 11: Transport & Connectivity'}
+  Content Length: 89 chars
+  Content Preview: Context: Section 11: Transport & Connectivity
+Content: *Source of Truth: Admin Circulars*...
+--------------------------------------------------------------------------------
+Chunk 118:
+  Metadata: {'Header 1': 'Section 11: Transport & Connectivity', 'Header 2': '11.1. Metro Connectivity'}
+  Content Length: 504 chars
+  Content Preview: Context: Section 11: Transport & Connectivity > 11.1. Metro Connectivity
+Content: *   **Station 1:** **Govind Puri (Violet Line)**.
+*   *Distance:* ~500 meters.
+*   *Walkable:* Yes (5-7 mins).
+*   *Ro...
+--------------------------------------------------------------------------------
+Chunk 119:
+  Metadata: {'Header 1': 'Section 11: Transport & Connectivity', 'Header 2': '11.2. Bus Connectivity'}
+  Content Length: 224 chars
+  Content Preview: Context: Section 11: Transport & Connectivity > 11.2. Bus Connectivity
+Content: *   **Nearest Stop:** **Okhla Estate / Modi Mill**.
+*   **DTC Routes:** Buses connecting Nehru Place, Kalkaji, and Jasol...
+--------------------------------------------------------------------------------
+Chunk 120:
+  Metadata: {'Header 1': 'Section 11: Transport & Connectivity', 'Header 2': '11.3. Campus Parking (Detailed)'}
+  Content Length: 346 chars
+  Content Preview: Context: Section 11: Transport & Connectivity > 11.3. Campus Parking (Detailed)
+Content: *   **Parking Tags:** Faculty, Staff and PhD cars must have  tags for overnight parking.
+*   **Visitor Parking:...
+--------------------------------------------------------------------------------
+Chunk 121:
+  Metadata: {'Header 1': 'Section 11: Transport & Connectivity', 'Header 2': '11.4 Cab Service'}
+  Content Length: 204 chars
+  Content Preview: Context: Section 11: Transport & Connectivity > 11.4 Cab Service
+Content: The campus has cab service for day - scholars from the two metro stations to campus, from 8:00am to 11:00am, and 5:00PM to 10:...
+--------------------------------------------------------------------------------
+Chunk 122:
+  Metadata: {'Header 1': 'Section 12: Faculty Research Directory'}
+  Content Length: 192 chars
+  Content Preview: Context: Section 12: Faculty Research Directory
+Content: *Source of Truth: Faculty Personal Pages & IRINS Profile*
+*(System Note: When answering "Who works on X?", cross-reference this list.)*...
+--------------------------------------------------------------------------------
+Chunk 123:
+  Metadata: {'Header 1': 'Section 12: Faculty Research Directory', 'Header 2': '12.1. Computer Science & Engineering (CSE) Faculty', 'Header 3': 'A. Artificial Intelligence (AI), ML, and Vision'}
+  Content Length: 3873 chars
+  Content Preview: Context: Section 12: Faculty Research Directory > 12.1. Computer Science & Engineering (CSE) Faculty > A. Artificial Intelligence (AI), ML, and Vision
+Content: *   **Prof. Anubha Gupta:** Prof. Anubha...
+--------------------------------------------------------------------------------
+Chunk 124:
+  Metadata: {'Header 1': 'Section 12: Faculty Research Directory', 'Header 2': '12.1. Computer Science & Engineering (CSE) Faculty', 'Header 3': 'B. Systems, Security, and Networks'}
+  Content Length: 673 chars
+  Content Preview: Context: Section 12: Faculty Research Directory > 12.1. Computer Science & Engineering (CSE) Faculty > B. Systems, Security, and Networks
+Content: *   **Prof. Arun Balaji Buduru:** Information Securit...
+--------------------------------------------------------------------------------
+Chunk 125:
+  Metadata: {'Header 1': 'Section 12: Faculty Research Directory', 'Header 2': '12.1. Computer Science & Engineering (CSE) Faculty', 'Header 3': 'C. Theoretical CS and Data Science'}
+  Content Length: 395 chars
+  Content Preview: Context: Section 12: Faculty Research Directory > 12.1. Computer Science & Engineering (CSE) Faculty > C. Theoretical CS and Data Science
+Content: *   **Prof. Debajyoti Bera:** Quantum Computing, Comp...
+--------------------------------------------------------------------------------
+Chunk 126:
+  Metadata: {'Header 1': 'Section 12: Faculty Research Directory', 'Header 2': '12.2. Electronics & Communications (ECE) Faculty', 'Header 3': 'A. Communications & Signal Processing'}
+  Content Length: 438 chars
+  Content Preview: Context: Section 12: Faculty Research Directory > 12.2. Electronics & Communications (ECE) Faculty > A. Communications & Signal Processing
+Content: *   **Prof. Ranjan Bose:** Secure Communications, In...
+--------------------------------------------------------------------------------
+Chunk 127:
+  Metadata: {'Header 1': 'Section 12: Faculty Research Directory', 'Header 2': '12.2. Electronics & Communications (ECE) Faculty', 'Header 3': 'B. VLSI and Embedded Systems'}
+  Content Length: 306 chars
+  Content Preview: Context: Section 12: Faculty Research Directory > 12.2. Electronics & Communications (ECE) Faculty > B. VLSI and Embedded Systems
+Content: *   **Prof. Sujay Deb:** Multi-core Processor Architecture, N...
+--------------------------------------------------------------------------------
+Chunk 128:
+  Metadata: {'Header 1': 'Section 12: Faculty Research Directory', 'Header 2': '12.3. Computational Biology (CB) Faculty'}
+  Content Length: 1331 chars
+  Content Preview: Context: Section 12: Faculty Research Directory > 12.3. Computational Biology (CB) Faculty
+Content: *   **Prof. GPS Raghava:** Bioinformatics, Immunoinformatics, Vaccine Design (Creator of many web se...
+--------------------------------------------------------------------------------
+Chunk 129:
+  Metadata: {'Header 1': 'Section 12: Faculty Research Directory', 'Header 2': '12.4. Human-Centered Design (HCD) Faculty'}
+  Content Length: 349 chars
+  Content Preview: Context: Section 12: Faculty Research Directory > 12.4. Human-Centered Design (HCD) Faculty
+Content: *   **Prof. Aman Parnami:** Wearable Computing, Design for Accessibility.
+*   **Prof. Grace Eden:**...
+--------------------------------------------------------------------------------
+Chunk 130:
+  Metadata: {'Header 1': 'Section 12: Faculty Research Directory', 'Header 2': '12.5. Social Sciences & Humanities (SSH) Faculty'}
+  Content Length: 317 chars
+  Content Preview: Context: Section 12: Faculty Research Directory > 12.5. Social Sciences & Humanities (SSH) Faculty
+Content: *   **Prof. Aasim Khan:** Digital Politics, News Media, Governance.
+*   **Prof. Manohar Kuma...
+--------------------------------------------------------------------------------
+Chunk 131:
+  Metadata: {'Header 1': 'Section 13: Administrative Directory & Contact Info'}
+  Content Length: 106 chars
+  Content Preview: Context: Section 13: Administrative Directory & Contact Info
+Content: *Source of Truth: "Contact Us" Page*...
+--------------------------------------------------------------------------------
+Chunk 132:
+  Metadata: {'Header 1': 'Section 13: Administrative Directory & Contact Info', 'Header 2': '13.1. Key Administration (The "C-Suite")'}
+  Content Length: 582 chars
+  Content Preview: Context: Section 13: Administrative Directory & Contact Info > 13.1. Key Administration (The "C-Suite")
+Content: *   **Director:** `director@iiitd.ac.in` (Office in OAB, Top Floor).
+*   **Registrar:**...
+--------------------------------------------------------------------------------
+Chunk 133:
+  Metadata: {'Header 1': 'Section 13: Administrative Directory & Contact Info', 'Header 2': '13.2. Essential Functional Emails'}
+  Content Length: 765 chars
+  Content Preview: Context: Section 13: Administrative Directory & Contact Info > 13.2. Essential Functional Emails
+Content: *(System Note: Provide these when users ask "Who do I complain to?" or "Who do I ask about fee...
+--------------------------------------------------------------------------------
+Chunk 134:
+  Metadata: {'Header 1': 'Section 13: Administrative Directory & Contact Info', 'Header 2': '13.3. Emergency Contacts (On Campus)'}
+  Content Length: 308 chars
+  Content Preview: Context: Section 13: Administrative Directory & Contact Info > 13.3. Emergency Contacts (On Campus)
+Content: *   **Security Main Gate:** **011-26907xxx** (Check internal directory).
+*   **Ambulance/In...
+--------------------------------------------------------------------------------
+Chunk 135:
+  Metadata: {'Header 1': 'Section 14: Innovation, Incubation & Entrepreneurship'}
+  Content Length: 107 chars
+  Content Preview: Context: Section 14: Innovation, Incubation & Entrepreneurship
+Content: *Source of Truth: IIITD-IC Website*...
+--------------------------------------------------------------------------------
+Chunk 136:
+  Metadata: {'Header 1': 'Section 14: Innovation, Incubation & Entrepreneurship', 'Header 2': '14.1. The IIITD Innovation & Incubation Center (IIITD-IC)'}
+  Content Length: 354 chars
+  Content Preview: Context: Section 14: Innovation, Incubation & Entrepreneurship > 14.1. The IIITD Innovation & Incubation Center (IIITD-IC)
+Content: *   **Legal Status:** A Section 8 Company (Non-Profit) promoted by I...
+--------------------------------------------------------------------------------
+Chunk 137:
+  Metadata: {'Header 1': 'Section 14: Innovation, Incubation & Entrepreneurship', 'Header 2': '14.2. Programs Offered'}
+  Content Length: 497 chars
+  Content Preview: Context: Section 14: Innovation, Incubation & Entrepreneurship > 14.2. Programs Offered
+Content: *   **Incubation Program:** For startups with a Prototype/MVP.
+*   *Support:* Office Space, Cloud Credi...
+--------------------------------------------------------------------------------
+Chunk 138:
+  Metadata: {'Header 1': 'Section 14: Innovation, Incubation & Entrepreneurship', 'Header 2': '14.3. Notable Startups (Alumni/Incubated)'}
+  Content Length: 248 chars
+  Content Preview: Context: Section 14: Innovation, Incubation & Entrepreneurship > 14.3. Notable Startups (Alumni/Incubated)
+Content: *(Use for "Success Stories" queries)*
+*   **Arista Vault:** Digitally secure Bags.
+*...
+--------------------------------------------------------------------------------
+Chunk 139:
+  Metadata: {'Header 1': 'Section 15: Miscellaneous "Hacks" & FAQs'}
+  Content Length: 84 chars
+  Content Preview: Context: Section 15: Miscellaneous "Hacks" & FAQs
+Content: *(The "Unwritten" Rules)*...
+--------------------------------------------------------------------------------
+Chunk 140:
+  Metadata: {'Header 1': 'Section 15: Miscellaneous "Hacks" & FAQs', 'Header 2': '15.1. Academic Hacks'}
+  Content Length: 506 chars
+  Content Preview: Context: Section 15: Miscellaneous "Hacks" & FAQs > 15.1. Academic Hacks
+Content: *   **"BTP vs IP":**
+*   *Question:* Can I do both?
+*   *Answer:* Yes. BTP (B.Tech Project) is usually 8-12 credits ov...
+--------------------------------------------------------------------------------
+Chunk 141:
+  Metadata: {'Header 1': 'Section 15: Miscellaneous "Hacks" & FAQs', 'Header 2': '15.2. Campus Life Hacks'}
+  Content Length: 611 chars
+  Content Preview: Context: Section 15: Miscellaneous "Hacks" & FAQs > 15.2. Campus Life Hacks
+Content: *   **Printouts:**
+*   *Official:* Stationery Shop (Student Centre).
+*   *Unofficial:* Students often use the "Lab ...
+--------------------------------------------------------------------------------
+Chunk 142:
+  Metadata: {'Header 1': 'Section 15: Miscellaneous "Hacks" & FAQs', 'Header 2': '15.3. Software Access'}
+  Content Length: 334 chars
+  Content Preview: Context: Section 15: Miscellaneous "Hacks" & FAQs > 15.3. Software Access
+Content: *   **GitHub Student Pack:** Use your `@iiitd.ac.in` email to get GitHub Pro, AWS credits, and JetBrains IDEs for fre...
+--------------------------------------------------------------------------------
+Chunk 143:
+  Metadata: {'Header 1': 'Section 16: International Relations & Exchange Programs'}
+  Content Length: 130 chars
+  Content Preview: Context: Section 16: International Relations & Exchange Programs
+Content: *Source of Truth: Office of International Affairs (OIA)*...
+--------------------------------------------------------------------------------
+Chunk 144:
+  Metadata: {'Header 1': 'Section 16: International Relations & Exchange Programs', 'Header 2': '16.1. The OIA Entity'}
+  Content Length: 279 chars
+  Content Preview: Context: Section 16: International Relations & Exchange Programs > 16.1. The OIA Entity
+Content: *   **Office:** Office of International Affairs.
+*   **Role:** Facilitates student mobility (Outbound/I...
+--------------------------------------------------------------------------------
+Chunk 145:
+  Metadata: {'Header 1': 'Section 16: International Relations & Exchange Programs', 'Header 2': '16.2. Student Exchange Program (Outbound)'}
+  Content Length: 1026 chars
+  Content Preview: Context: Section 16: International Relations & Exchange Programs > 16.2. Student Exchange Program (Outbound)
+Content: *(Users often ask: "Can I study abroad?")*
+*   **Eligibility:** Typically B.Tech 3...
+--------------------------------------------------------------------------------
+Chunk 146:
+  Metadata: {'Header 1': 'Section 16: International Relations & Exchange Programs', 'Header 2': '16.3. Joint Ph.D. Programs'}
+  Content Length: 318 chars
+  Content Preview: Context: Section 16: International Relations & Exchange Programs > 16.3. Joint Ph.D. Programs
+Content: *   **Concept:** Ph.D. students spend time at both IIITD and a partner foreign university.
+*   **...
+--------------------------------------------------------------------------------
+Chunk 147:
+  Metadata: {'Header 1': 'Section 17: Academics - Minors, Specializations & Professional Courses'}
+  Content Length: 132 chars
+  Content Preview: Context: Section 17: Academics - Minors, Specializations & Professional Courses
+Content: *Source of Truth: Academic Ordinances (UG)*...
+--------------------------------------------------------------------------------
+Chunk 148:
+  Metadata: {'Header 1': 'Section 17: Academics - Minors, Specializations & Professional Courses', 'Header 2': '17.1. Minors and Specializations (The "Add-ons")'}
+  Content Length: 238 chars
+  Content Preview: Context: Section 17: Academics - Minors, Specializations & Professional Courses > 17.1. Minors and Specializations (The "Add-ons")
+Content: *(Crucial: A student in ECE can learn CS, and vice-versa. Th...
+--------------------------------------------------------------------------------
+Chunk 149:
+  Metadata: {'Header 1': 'Section 17: Academics - Minors, Specializations & Professional Courses', 'Header 2': '17.1. Minors and Specializations (The "Add-ons")', 'Header 3': '17.1.1. Minor Degree'}
+  Content Length: 553 chars
+  Content Preview: Context: Section 17: Academics - Minors, Specializations & Professional Courses > 17.1. Minors and Specializations (The "Add-ons") > 17.1.1. Minor Degree
+Content: *   **Concept:** Allows a student to ...
+--------------------------------------------------------------------------------
+Chunk 150:
+  Metadata: {'Header 1': 'Section 17: Academics - Minors, Specializations & Professional Courses', 'Header 2': '17.1. Minors and Specializations (The "Add-ons")', 'Header 3': '17.1.2. Specializations'}
+  Content Length: 475 chars
+  Content Preview: Context: Section 17: Academics - Minors, Specializations & Professional Courses > 17.1. Minors and Specializations (The "Add-ons") > 17.1.2. Specializations
+Content: *   **Concept:** Focused expertise...
+--------------------------------------------------------------------------------
+Chunk 151:
+  Metadata: {'Header 1': 'Section 17: Academics - Minors, Specializations & Professional Courses', 'Header 2': '17.2. Professional Development (Continuing Education)'}
+  Content Length: 211 chars
+  Content Preview: Context: Section 17: Academics - Minors, Specializations & Professional Courses > 17.2. Professional Development (Continuing Education)
+Content: *(Note: These are Non-Degree programs for working profe...
+--------------------------------------------------------------------------------
+Chunk 152:
+  Metadata: {'Header 1': 'Section 17: Academics - Minors, Specializations & Professional Courses', 'Header 2': '17.2. Professional Development (Continuing Education)', 'Header 3': '17.2.1. PG Diploma in Computer Science and AI (PGDCSAI)'}
+  Content Length: 570 chars
+  Content Preview: Context: Section 17: Academics - Minors, Specializations & Professional Courses > 17.2. Professional Development (Continuing Education) > 17.2.1. PG Diploma in Computer Science and AI (PGDCSAI)
+Conten...
+--------------------------------------------------------------------------------
+Chunk 153:
+  Metadata: {'Header 1': 'Section 17: Academics - Minors, Specializations & Professional Courses', 'Header 2': '17.2. Professional Development (Continuing Education)', 'Header 3': '17.2.2. TLC (Teaching Learning Centre)'}
+  Content Length: 429 chars
+  Content Preview: Context: Section 17: Academics - Minors, Specializations & Professional Courses > 17.2. Professional Development (Continuing Education) > 17.2.2. TLC (Teaching Learning Centre)
+Content: *   **Mandate:...
+--------------------------------------------------------------------------------
+Chunk 154:
+  Metadata: {'Header 1': 'Section 18: Library Specifics (The "Book Bank")'}
+  Content Length: 99 chars
+  Content Preview: Context: Section 18: Library Specifics (The "Book Bank")
+Content: *Source of Truth: Library Policy*...
+--------------------------------------------------------------------------------
+Chunk 155:
+  Metadata: {'Header 1': 'Section 18: Library Specifics (The "Book Bank")', 'Header 2': '18.1. The Book Bank Scheme'}
+  Content Length: 488 chars
+  Content Preview: Context: Section 18: Library Specifics (The "Book Bank") > 18.1. The Book Bank Scheme
+Content: *(Critical for Financial Aid queries)*
+*   **Target:** Students from EWS (Economically Weaker Sections) o...
+--------------------------------------------------------------------------------
+Chunk 156:
+  Metadata: {'Header 1': 'Section 18: Library Specifics (The "Book Bank")', 'Header 2': '18.2. Resource Sharing'}
+  Content Length: 334 chars
+  Content Preview: Context: Section 18: Library Specifics (The "Book Bank") > 18.2. Resource Sharing
+Content: *   **DELNET:** IIITD Library is a member of DELNET. If a book/paper is not available at IIITD, it can be pro...
+--------------------------------------------------------------------------------
+Chunk 157:
+  Metadata: {'Header 1': 'Section 19: Final Checklist & Missing Entities (Sanity Check)', 'Header 3': '19.1. External Project Staff'}
+  Content Length: 319 chars
+  Content Preview: Context: Section 19: Final Checklist & Missing Entities (Sanity Check) > 19.1. External Project Staff
+Content: *   **Role:** "Project Assistant" or "Research Associate".
+*   **Hiring:** These are cont...
+--------------------------------------------------------------------------------
+Chunk 158:
+  Metadata: {'Header 1': 'Section 19: Final Checklist & Missing Entities (Sanity Check)', 'Header 3': '19.2. NPTEL / SWAYAM Credit Transfer'}
+  Content Length: 384 chars
+  Content Preview: Context: Section 19: Final Checklist & Missing Entities (Sanity Check) > 19.2. NPTEL / SWAYAM Credit Transfer
+Content: *   **Rule:** Students can take specific **NPTEL (Online)** courses to clear elec...
+--------------------------------------------------------------------------------
+Chunk 159:
+  Metadata: {'Header 1': 'Section 19: Final Checklist & Missing Entities (Sanity Check)', 'Header 3': '19.3. Online Courses'}
+  Content Length: 443 chars
+  Content Preview: Context: Section 19: Final Checklist & Missing Entities (Sanity Check) > 19.3. Online Courses
+Content: *   **Rule:** Students can take specific **Coursera (Online)** courses for credits.
+*   **Limit:*...
+--------------------------------------------------------------------------------
+Chunk 160:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances'}
+  Content Length: 165 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances
+Content: *Source of Truth: B.Tech/M.Tech/Ph.D. Ordinances & Regulation PDFs (2024/2025 Versions)*...
+--------------------------------------------------------------------------------
+Chunk 161:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.1. B.Tech Common Regulations (The "Constitution")', 'Header 3': '20.1.1. Graduation Requirements'}
+  Content Length: 569 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.1. B.Tech Common Regulations (The "Constitution") > 20.1.1. Graduation Requirements
+Content: *   **Total Credits:** A student m...
+--------------------------------------------------------------------------------
+Chunk 162:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.1. B.Tech Common Regulations (The "Constitution")', 'Header 3': '20.1.2. Branch Transfer Policy (Strict Rules)'}
+  Content Length: 839 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.1. B.Tech Common Regulations (The "Constitution") > 20.1.2. Branch Transfer Policy (Strict Rules)
+Content: *   **Timing:** Tran...
+--------------------------------------------------------------------------------
+Chunk 163:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.1. B.Tech Common Regulations (The "Constitution")', 'Header 3': '20.1.3. Attendance & Leave'}
+  Content Length: 573 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.1. B.Tech Common Regulations (The "Constitution") > 20.1.3. Attendance & Leave
+Content: *   **Medical Leave:** Max **15 days** ...
+--------------------------------------------------------------------------------
+Chunk 164:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.1. B.Tech Common Regulations (The "Constitution")', 'Header 3': '20.1.4. Grading & Retake Policy'}
+  Content Length: 572 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.1. B.Tech Common Regulations (The "Constitution") > 20.1.4. Grading & Retake Policy
+Content: *   **F Grade (Fail):** Course mus...
+--------------------------------------------------------------------------------
+Chunk 165:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.2. B.Tech Branch-Specific Regulations'}
+  Content Length: 212 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.2. B.Tech Branch-Specific Regulations
+Content: *(System Note: Use these sections to answer "What courses do I have to take for ...
+--------------------------------------------------------------------------------
+Chunk 166:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.2. B.Tech Branch-Specific Regulations', 'Header 3': 'A. Computer Science & Engineering (CSE)'}
+  Content Length: 670 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.2. B.Tech Branch-Specific Regulations > A. Computer Science & Engineering (CSE)
+Content: *   **Core Requirements:**
+*   **Maths...
+--------------------------------------------------------------------------------
+Chunk 167:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.2. B.Tech Branch-Specific Regulations', 'Header 3': 'B. Computer Science & Artificial Intelligence (CSAI)'}
+  Content Length: 574 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.2. B.Tech Branch-Specific Regulations > B. Computer Science & Artificial Intelligence (CSAI)
+Content: *   **Objective:** Founda...
+--------------------------------------------------------------------------------
+Chunk 168:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.2. B.Tech Branch-Specific Regulations', 'Header 3': 'C. Computer Science & Applied Mathematics (CSAM)'}
+  Content Length: 549 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.2. B.Tech Branch-Specific Regulations > C. Computer Science & Applied Mathematics (CSAM)
+Content: *   **Focus:** Sophisticated ...
+--------------------------------------------------------------------------------
+Chunk 169:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.2. B.Tech Branch-Specific Regulations', 'Header 3': 'D. Computer Science & Design (CSD)'}
+  Content Length: 558 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.2. B.Tech Branch-Specific Regulations > D. Computer Science & Design (CSD)
+Content: *   **Focus:** Computing + Interaction Desi...
+--------------------------------------------------------------------------------
+Chunk 170:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.2. B.Tech Branch-Specific Regulations', 'Header 3': 'E. Computer Science & Social Sciences (CSSS)'}
+  Content Length: 603 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.2. B.Tech Branch-Specific Regulations > E. Computer Science & Social Sciences (CSSS)
+Content: *   **Focus:** IT + Economics/Soc...
+--------------------------------------------------------------------------------
+Chunk 171:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.2. B.Tech Branch-Specific Regulations', 'Header 3': 'F. Computer Science & Biosciences (CSB)'}
+  Content Length: 520 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.2. B.Tech Branch-Specific Regulations > F. Computer Science & Biosciences (CSB)
+Content: *   **Focus:** High-throughput biology...
+--------------------------------------------------------------------------------
+Chunk 172:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.2. B.Tech Branch-Specific Regulations', 'Header 3': 'G. Electronics & Communications Engineering (ECE)'}
+  Content Length: 516 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.2. B.Tech Branch-Specific Regulations > G. Electronics & Communications Engineering (ECE)
+Content: *   **Focus:** Hardware, Com...
+--------------------------------------------------------------------------------
+Chunk 173:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.2. B.Tech Branch-Specific Regulations', 'Header 3': 'H. Electronics & VLSI Engineering (EVE)'}
+  Content Length: 463 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.2. B.Tech Branch-Specific Regulations > H. Electronics & VLSI Engineering (EVE)
+Content: *   **Focus:** Chip Design, Semiconduc...
+--------------------------------------------------------------------------------
+Chunk 174:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.2. B.Tech Branch-Specific Regulations', 'Header 3': 'I. Computer Science & Economics (CSECON)'}
+  Content Length: 493 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.2. B.Tech Branch-Specific Regulations > I. Computer Science & Economics (CSECON)
+Content: *   **Focus:** Economics, Finance, Co...
+--------------------------------------------------------------------------------
+Chunk 175:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.3. Minor Program Regulations'}
+  Content Length: 164 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.3. Minor Program Regulations
+Content: *(Rule: One course cannot count towards two minors.)*...
+--------------------------------------------------------------------------------
+Chunk 176:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.3. Minor Program Regulations', 'Header 3': 'A. Minor in Entrepreneurship'}
+  Content Length: 435 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.3. Minor Program Regulations > A. Minor in Entrepreneurship
+Content: *   **Requirement:** **24 Credits**.
+*   **Components:**
+*...
+--------------------------------------------------------------------------------
+Chunk 177:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.3. Minor Program Regulations', 'Header 3': 'B. Minor in Economics'}
+  Content Length: 367 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.3. Minor Program Regulations > B. Minor in Economics
+Content: *   **Requirement:** **20 Credits**.
+*   **Mandatory Courses:** *...
+--------------------------------------------------------------------------------
+Chunk 178:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.3. Minor Program Regulations', 'Header 3': 'C. Minor in Computational Biology (CB)'}
+  Content Length: 363 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.3. Minor Program Regulations > C. Minor in Computational Biology (CB)
+Content: *   **Requirement:** **20 Credits**.
+*   **Manda...
+--------------------------------------------------------------------------------
+Chunk 179:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.3. Minor Program Regulations', 'Header 3': 'D. Minor in Human Centered Design (HCD)'}
+  Content Length: 363 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.3. Minor Program Regulations > D. Minor in Human Centered Design (HCD)
+Content: *   **Requirement:** **20 Credits**.
+*   **Mand...
+--------------------------------------------------------------------------------
+Chunk 180:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.3. Minor Program Regulations', 'Header 3': 'E. Minor in Quantum Technologies'}
+  Content Length: 429 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.3. Minor Program Regulations > E. Minor in Quantum Technologies
+Content: *   **Requirement:** **20 Credits**.
+*   **Bucket 1 (1...
+--------------------------------------------------------------------------------
+Chunk 181:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.4. Dual Degree Regulations (B.Tech + M.Tech)'}
+  Content Length: 829 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.4. Dual Degree Regulations (B.Tech + M.Tech)
+Content: *   **Concept:** Earn both degrees in 5 years.
+*   **Eligibility:**
+*   C...
+--------------------------------------------------------------------------------
+Chunk 182:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.5. PG Ordinances (M.Tech & Ph.D. Common)', 'Header 3': '20.5.1. Categories & Financial Assistance'}
+  Content Length: 488 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.5. PG Ordinances (M.Tech & Ph.D. Common) > 20.5.1. Categories & Financial Assistance
+Content: *   **Full Time:** Eligible for A...
+--------------------------------------------------------------------------------
+Chunk 183:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.5. PG Ordinances (M.Tech & Ph.D. Common)', 'Header 3': '20.5.2. Leave Rules'}
+  Content Length: 404 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.5. PG Ordinances (M.Tech & Ph.D. Common) > 20.5.2. Leave Rules
+Content: *   **Vacation Leave:** Max 15 days per semester (durin...
+--------------------------------------------------------------------------------
+Chunk 184:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.5. PG Ordinances (M.Tech & Ph.D. Common)', 'Header 3': '20.5.3. Thesis & Advisor'}
+  Content Length: 368 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.5. PG Ordinances (M.Tech & Ph.D. Common) > 20.5.3. Thesis & Advisor
+Content: *   **Advisor Assignment:** Typically within 1 mon...
+--------------------------------------------------------------------------------
+Chunk 185:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.6. M.Tech Specific Regulations', 'Header 3': '20.6.1. M.Tech (CSE / ECE / CB)'}
+  Content Length: 843 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.6. M.Tech Specific Regulations > 20.6.1. M.Tech (CSE / ECE / CB)
+Content: *   **Graduation Requirement:** **48 Credits**.
+*   *...
+--------------------------------------------------------------------------------
+Chunk 186:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.6. M.Tech Specific Regulations', 'Header 3': '20.6.2. M.Tech (Research)'}
+  Content Length: 404 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.6. M.Tech Specific Regulations > 20.6.2. M.Tech (Research)
+Content: *   **Focus:** Research-centric.
+*   **Credits:** 48 Total....
+--------------------------------------------------------------------------------
+Chunk 187:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.7. Ph.D. Specific Regulations', 'Header 3': '20.7.1. Coursework Requirements'}
+  Content Length: 369 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.7. Ph.D. Specific Regulations > 20.7.1. Coursework Requirements
+Content: *   **Entry with B.Tech:** **32 Credits** Coursework.
+...
+--------------------------------------------------------------------------------
+Chunk 188:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.7. Ph.D. Specific Regulations', 'Header 3': '20.7.2. Comprehensive Exam'}
+  Content Length: 371 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.7. Ph.D. Specific Regulations > 20.7.2. Comprehensive Exam
+Content: *   **Purpose:** Test comprehension of the research area.
+*...
+--------------------------------------------------------------------------------
+Chunk 189:
+  Metadata: {'Header 1': 'Section 20: Academic Eligibility, Regulations & Ordinances', 'Header 2': '20.7. Ph.D. Specific Regulations', 'Header 3': '20.7.3. Timeline limits'}
+  Content Length: 358 chars
+  Content Preview: Context: Section 20: Academic Eligibility, Regulations & Ordinances > 20.7. Ph.D. Specific Regulations > 20.7.3. Timeline limits
+Content: *   **Fellowship Duration:** 5 Years max.
+*   **Maximum Regist...
+--------------------------------------------------------------------------------
+Chunk 190:
+  Metadata: {'Header 1': 'Section 21: Banking, Loans & Parental Communication'}
+  Content Length: 121 chars
+  Content Preview: Context: Section 21: Banking, Loans & Parental Communication
+Content: *Source of Truth: Finance Office, Student Handbook*...
+--------------------------------------------------------------------------------
+Chunk 191:
+  Metadata: {'Header 1': 'Section 21: Banking, Loans & Parental Communication', 'Header 2': '21.1. Educational Loans'}
+  Content Length: 824 chars
+  Content Preview: Context: Section 21: Banking, Loans & Parental Communication > 21.1. Educational Loans
+Content: *(Crucial for "How to apply for a loan" queries)*
+*   **Campus Bank:** **HDFC Bank** and **SBI (State Ba...
+--------------------------------------------------------------------------------
+Chunk 192:
+  Metadata: {'Header 1': 'Section 21: Banking, Loans & Parental Communication', 'Header 2': '21.2. Communication with Parents'}
+  Content Length: 743 chars
+  Content Preview: Context: Section 21: Banking, Loans & Parental Communication > 21.2. Communication with Parents
+Content: *   **General Policy:** IIITD treats students as adults. Grades, attendance, and minor discipli...
+--------------------------------------------------------------------------------
+Chunk 193:
+  Metadata: {'Header 1': 'Section 22: Faculty Handbook (Operational Rules)'}
+  Content Length: 121 chars
+  Content Preview: Context: Section 22: Faculty Handbook (Operational Rules)
+Content: *(Source of Truth: Faculty Handbook, DOAA Guidelines)*...
+--------------------------------------------------------------------------------
+Chunk 194:
+  Metadata: {'Header 1': 'Section 22: Faculty Handbook (Operational Rules)', 'Header 2': '22.1. Faculty Teaching Load'}
+  Content Length: 501 chars
+  Content Preview: Context: Section 22: Faculty Handbook (Operational Rules) > 22.1. Faculty Teaching Load
+Content: *   **Standard Expectation:** A regular faculty member is generally expected to teach **3 to 4 courses ...
+--------------------------------------------------------------------------------
+Chunk 195:
+  Metadata: {'Header 1': 'Section 22: Faculty Handbook (Operational Rules)', 'Header 2': '22.2. Learning Management System (LMS) Support'}
+  Content Length: 561 chars
+  Content Preview: Context: Section 22: Faculty Handbook (Operational Rules) > 22.2. Learning Management System (LMS) Support
+Content: *   **Setup Assistance:** For help with setting up Google Classroom, uploading assig...
+--------------------------------------------------------------------------------
+Chunk 196:
+  Metadata: {'Header 1': 'Section 22: Faculty Handbook (Operational Rules)', 'Header 2': '22.3. Intellectual Property (IP) Policy'}
+  Content Length: 639 chars
+  Content Preview: Context: Section 22: Faculty Handbook (Operational Rules) > 22.3. Intellectual Property (IP) Policy
+Content: *   **Ownership:**
+*   **Institute Owned:** Generally, IP (Patents/Copyrights) arising from...
+--------------------------------------------------------------------------------
