@@ -576,6 +576,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <p align="center">
   <a href="https://iiitd.ac.in">Website</a> •
-  <a href="https://github.com/your-username/IIITD-Chatbot/issues">Report Bug</a> •
-  <a href="https://github.com/your-username/IIITD-Chatbot/issues">Request Feature</a>
+  <a href="https://github.com/Beingstupid4me/IIITD-Chatbot/issues">Report Bug</a> •
+  <a href="https://github.com/Beingstupid4me/IIITD-Chatbot/issues">Request Feature</a>
 </p>
